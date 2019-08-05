@@ -1,0 +1,51 @@
+slots:
+  category:
+    type: text
+
+entities:
+- category
+
+intents:
+- AFFIRM
+- EXAM
+- REJECT
+- JOB_SEARCH
+- CAREER
+- STUDY
+- SALARY
+- GREETING
+actions:
+- action_restart
+- utter_AFFIRM
+- utter_EXAM
+- utter_REJECT
+- utter_JOB_SEARCH
+- utter_CAREER
+- utter_SALARY
+- utter_GREETING
+- utter_default
+- utter_STUDY
+templates:
+  utter_GREETING:
+    - text: Hey Welcome to CareerBot, how can I help?
+    - text: Hi Welcome to CareerBot, how can I help
+  utter_Study:
+    - text: If you want learn this course, We will suggest you What to do,Through Call. Please Wait for minute. Thank you 
+  utter_EXAM:
+    - text: The upcoming exams will list will be sent through the mail. Thank you, You can refer for website for Study-Material.
+  utter_JOB_SEARCH:
+    - text: Can you Please tell your skills, We will match and send you JOBs?
+  utter_REJECT:
+    - text:Sorry to hear it,How can I help you?
+  utter_CAREER:
+    - text: We are searching suitable career for you, Please wait. We will mail you.Thankyou
+  utter_default:
+    - text: I am not sure what you're aiming for
+    - text: I am sorry but I am not able to get you.
+    - text: My appologies but I am not able to get you
+  utter_SALARY:
+    - text: What yours skills?
+  utter_STUDY:
+    - text: We have noted your skills, We will soon contact you Thank you
+  utter_AFFIRM:
+    - text: Nice to hear it.

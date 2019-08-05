@@ -1,0 +1,1394 @@
+[
+    {
+        "text": "Good work",
+        "intent": "AFFIRM",
+        "intent_prediction": {
+            "name": "GREETING",
+            "confidence": 0.38185064126068147
+        }
+    },
+    {
+        "text": "Nice",
+        "intent": "AFFIRM",
+        "intent_prediction": {
+            "name": "REJECT",
+            "confidence": 0.5782627371222031
+        }
+    },
+    {
+        "text": "Good,keep it up",
+        "intent": "AFFIRM",
+        "intent_prediction": {
+            "name": "REJECT",
+            "confidence": 0.5592274425605624
+        }
+    },
+    {
+        "text": "Awesome",
+        "intent": "AFFIRM",
+        "intent_prediction": {
+            "name": "REJECT",
+            "confidence": 0.590694933489788
+        }
+    },
+    {
+        "text": "Wow amazing",
+        "intent": "AFFIRM",
+        "intent_prediction": {
+            "name": "REJECT",
+            "confidence": 0.5123315317701078
+        }
+    },
+    {
+        "text": "Exciting",
+        "intent": "AFFIRM",
+        "intent_prediction": {
+            "name": "REJECT",
+            "confidence": 0.37164504439780965
+        }
+    },
+    {
+        "text": "Totally fine",
+        "intent": "AFFIRM",
+        "intent_prediction": {
+            "name": "REJECT",
+            "confidence": 0.5309625472504126
+        }
+    },
+    {
+        "text": "Perfectly alright",
+        "intent": "AFFIRM",
+        "intent_prediction": {
+            "name": "REJECT",
+            "confidence": 0.584471819074266
+        }
+    },
+    {
+        "text": "I loved it",
+        "intent": "AFFIRM",
+        "intent_prediction": {
+            "name": "REJECT",
+            "confidence": 0.538352412773434
+        }
+    },
+    {
+        "text": "Nice, i liked it",
+        "intent": "AFFIRM",
+        "intent_prediction": {
+            "name": "REJECT",
+            "confidence": 0.34721426653211435
+        }
+    },
+    {
+        "text": "Yes,thak you",
+        "intent": "AFFIRM",
+        "intent_prediction": {
+            "name": "REJECT",
+            "confidence": 0.41633247881350083
+        }
+    },
+    {
+        "text": "I am very happy to work with you",
+        "intent": "AFFIRM",
+        "intent_prediction": {
+            "name": "REJECT",
+            "confidence": 0.4084955725143939
+        }
+    },
+    {
+        "text": "I am grateful for having this opportunity",
+        "intent": "AFFIRM",
+        "intent_prediction": {
+            "name": "REJECT",
+            "confidence": 0.42486442465278945
+        }
+    },
+    {
+        "text": "I am very grateful for your offer",
+        "intent": "AFFIRM",
+        "intent_prediction": {
+            "name": "REJECT",
+            "confidence": 0.4414603439124874
+        }
+    },
+    {
+        "text": "I totally agree with you",
+        "intent": "AFFIRM",
+        "intent_prediction": {
+            "name": "REJECT",
+            "confidence": 0.5741304487785733
+        }
+    },
+    {
+        "text": "We are going to do this",
+        "intent": "AFFIRM",
+        "intent_prediction": {
+            "name": "REJECT",
+            "confidence": 0.49850418187672
+        }
+    },
+    {
+        "text": "Thank you,that is my dream job",
+        "intent": "AFFIRM",
+        "intent_prediction": {
+            "name": "REJECT",
+            "confidence": 0.48924350634201574
+        }
+    },
+    {
+        "text": "We are going to verify this together",
+        "intent": "AFFIRM",
+        "intent_prediction": {
+            "name": "REJECT",
+            "confidence": 0.5800047682712776
+        }
+    },
+    {
+        "text": "You are correct",
+        "intent": "AFFIRM",
+        "intent_prediction": {
+            "name": "REJECT",
+            "confidence": 0.5770628214627941
+        }
+    },
+    {
+        "text": "Yes,i will join you",
+        "intent": "AFFIRM",
+        "intent_prediction": {
+            "name": "REJECT",
+            "confidence": 0.4787571967388437
+        }
+    },
+    {
+        "text": "Yes,i will meet you tomorrow",
+        "intent": "AFFIRM",
+        "intent_prediction": {
+            "name": "REJECT",
+            "confidence": 0.4610577788591566
+        }
+    },
+    {
+        "text": "Yes,i am accepting your offer",
+        "intent": "AFFIRM",
+        "intent_prediction": {
+            "name": "REJECT",
+            "confidence": 0.6004861083024385
+        }
+    },
+    {
+        "text": "I do",
+        "intent": "AFFIRM",
+        "intent_prediction": {
+            "name": "REJECT",
+            "confidence": 0.34458921108028595
+        }
+    },
+    {
+        "text": "I shall",
+        "intent": "AFFIRM",
+        "intent_prediction": {
+            "name": "REJECT",
+            "confidence": 0.5473533087500445
+        }
+    },
+    {
+        "text": "You are absolutely right",
+        "intent": "AFFIRM",
+        "intent_prediction": {
+            "name": "REJECT",
+            "confidence": 0.5602006398365742
+        }
+    },
+    {
+        "text": "I will participate in the event",
+        "intent": "AFFIRM",
+        "intent_prediction": {
+            "name": "REJECT",
+            "confidence": 0.3589774905017248
+        }
+    },
+    {
+        "text": "I am okay with it",
+        "intent": "AFFIRM",
+        "intent_prediction": {
+            "name": "REJECT",
+            "confidence": 0.41529922884600395
+        }
+    },
+    {
+        "text": "I will be waiting for the time to work with you",
+        "intent": "AFFIRM",
+        "intent_prediction": {
+            "name": "REJECT",
+            "confidence": 0.3366588062504607
+        }
+    },
+    {
+        "text": "We will do it together",
+        "intent": "AFFIRM",
+        "intent_prediction": {
+            "name": "REJECT",
+            "confidence": 0.5534862862091591
+        }
+    },
+    {
+        "text": "We should do it together",
+        "intent": "AFFIRM",
+        "intent_prediction": {
+            "name": "REJECT",
+            "confidence": 0.5482335633563927
+        }
+    },
+    {
+        "text": "This plan have to be implemented",
+        "intent": "AFFIRM",
+        "intent_prediction": {
+            "name": "REJECT",
+            "confidence": 0.3640604525641358
+        }
+    },
+    {
+        "text": "I am accepting this job offer",
+        "intent": "AFFIRM",
+        "intent_prediction": {
+            "name": "REJECT",
+            "confidence": 0.39976110331000037
+        }
+    },
+    {
+        "text": "I will try to keep up your expectations",
+        "intent": "AFFIRM",
+        "intent_prediction": {
+            "name": "REJECT",
+            "confidence": 0.353706344912865
+        }
+    },
+    {
+        "text": "Definitely,you can go further",
+        "intent": "AFFIRM",
+        "intent_prediction": {
+            "name": "REJECT",
+            "confidence": 0.5727468612832055
+        }
+    },
+    {
+        "text": "I will definitely follow you",
+        "intent": "AFFIRM",
+        "intent_prediction": {
+            "name": "REJECT",
+            "confidence": 0.5051483357306902
+        }
+    },
+    {
+        "text": "Please proceed",
+        "intent": "AFFIRM",
+        "intent_prediction": {
+            "name": "REJECT",
+            "confidence": 0.4706154703946784
+        }
+    },
+    {
+        "text": "I am interested in it",
+        "intent": "AFFIRM",
+        "intent_prediction": {
+            "name": "REJECT",
+            "confidence": 0.4493024168352744
+        }
+    },
+    {
+        "text": "Nice, i liked it",
+        "intent": "AFFIRM",
+        "intent_prediction": {
+            "name": "REJECT",
+            "confidence": 0.34721426653211435
+        }
+    },
+    {
+        "text": "Welcome",
+        "intent": "AFFIRM",
+        "intent_prediction": {
+            "name": "REJECT",
+            "confidence": 0.3343452441775779
+        }
+    },
+    {
+        "text": "Go for",
+        "intent": "AFFIRM",
+        "intent_prediction": {
+            "name": "REJECT",
+            "confidence": 0.4746127988394285
+        }
+    },
+    {
+        "text": "Allow",
+        "intent": "AFFIRM",
+        "intent_prediction": {
+            "name": "REJECT",
+            "confidence": 0.4772262287384797
+        }
+    },
+    {
+        "text": "Bless",
+        "intent": "AFFIRM",
+        "intent_prediction": {
+            "name": "REJECT",
+            "confidence": 0.6075938864306804
+        }
+    },
+    {
+        "text": "Let pass",
+        "intent": "AFFIRM",
+        "intent_prediction": {
+            "name": "REJECT",
+            "confidence": 0.46985168692841506
+        }
+    },
+    {
+        "text": "License",
+        "intent": "AFFIRM",
+        "intent_prediction": {
+            "name": "REJECT",
+            "confidence": 0.4195525945339425
+        }
+    },
+    {
+        "text": "Granted",
+        "intent": "AFFIRM",
+        "intent_prediction": {
+            "name": "REJECT",
+            "confidence": 0.5508379564832873
+        }
+    },
+    {
+        "text": "Yup,you can.",
+        "intent": "AFFIRM",
+        "intent_prediction": {
+            "name": "REJECT",
+            "confidence": 0.3414988069046548
+        }
+    },
+    {
+        "text": "Conformed",
+        "intent": "AFFIRM",
+        "intent_prediction": {
+            "name": "REJECT",
+            "confidence": 0.3925874760638012
+        }
+    },
+    {
+        "text": "Surely,we provde information in this requirement.",
+        "intent": "AFFIRM",
+        "intent_prediction": {
+            "name": "REJECT",
+            "confidence": 0.3113979839542364
+        }
+    },
+    {
+        "text": "Truly",
+        "intent": "AFFIRM",
+        "intent_prediction": {
+            "name": "REJECT",
+            "confidence": 0.5834325705004486
+        }
+    },
+    {
+        "text": "Actually",
+        "intent": "AFFIRM",
+        "intent_prediction": {
+            "name": "REJECT",
+            "confidence": 0.5854890882464282
+        }
+    },
+    {
+        "text": "Extremly",
+        "intent": "AFFIRM",
+        "intent_prediction": {
+            "name": "REJECT",
+            "confidence": 0.5812650128843233
+        }
+    },
+    {
+        "text": "Undeniably",
+        "intent": "AFFIRM",
+        "intent_prediction": {
+            "name": "REJECT",
+            "confidence": 0.5985447301544149
+        }
+    },
+    {
+        "text": "For surely, you can do that",
+        "intent": "AFFIRM",
+        "intent_prediction": {
+            "name": "REJECT",
+            "confidence": 0.5279005101166308
+        }
+    },
+    {
+        "text": "Nice, you can apply it",
+        "intent": "AFFIRM",
+        "intent_prediction": {
+            "name": "REJECT",
+            "confidence": 0.4160565759686584
+        }
+    },
+    {
+        "text": "Good , go ahead",
+        "intent": "AFFIRM",
+        "intent_prediction": {
+            "name": "REJECT",
+            "confidence": 0.542419997846533
+        }
+    },
+    {
+        "text": "Yes,go on",
+        "intent": "AFFIRM",
+        "intent_prediction": {
+            "name": "REJECT",
+            "confidence": 0.6026680839185302
+        }
+    },
+    {
+        "text": "Yes,sure",
+        "intent": "AFFIRM",
+        "intent_prediction": {
+            "name": "REJECT",
+            "confidence": 0.37628659083191024
+        }
+    },
+    {
+        "text": "I am good with this go on",
+        "intent": "AFFIRM",
+        "intent_prediction": {
+            "name": "REJECT",
+            "confidence": 0.49843911465794
+        }
+    },
+    {
+        "text": "Good go on",
+        "intent": "AFFIRM",
+        "intent_prediction": {
+            "name": "REJECT",
+            "confidence": 0.3367677127984301
+        }
+    },
+    {
+        "text": "Exactly",
+        "intent": "AFFIRM",
+        "intent_prediction": {
+            "name": "REJECT",
+            "confidence": 0.6106394800498284
+        }
+    },
+    {
+        "text": "You are awesome",
+        "intent": "AFFIRM",
+        "intent_prediction": {
+            "name": "REJECT",
+            "confidence": 0.6030266704526502
+        }
+    },
+    {
+        "text": "You are best",
+        "intent": "AFFIRM",
+        "intent_prediction": {
+            "name": "REJECT",
+            "confidence": 0.333864193528174
+        }
+    },
+    {
+        "text": "You deserve it.",
+        "intent": "AFFIRM",
+        "intent_prediction": {
+            "name": "REJECT",
+            "confidence": 0.3353032677689419
+        }
+    },
+    {
+        "text": "You are unique.",
+        "intent": "AFFIRM",
+        "intent_prediction": {
+            "name": "REJECT",
+            "confidence": 0.5988703071758182
+        }
+    },
+    {
+        "text": "I appreciate it",
+        "intent": "AFFIRM",
+        "intent_prediction": {
+            "name": "REJECT",
+            "confidence": 0.42569476684528046
+        }
+    },
+    {
+        "text": "You are great",
+        "intent": "AFFIRM",
+        "intent_prediction": {
+            "name": "REJECT",
+            "confidence": 0.603532107665471
+        }
+    },
+    {
+        "text": "None",
+        "intent": "REJECT",
+        "intent_prediction": {
+            "name": "GREETING",
+            "confidence": 0.5934132400587312
+        }
+    },
+    {
+        "text": "No,not like that",
+        "intent": "REJECT",
+        "intent_prediction": {
+            "name": "GREETING",
+            "confidence": 0.5609058046072689
+        }
+    },
+    {
+        "text": "Renounce",
+        "intent": "REJECT",
+        "intent_prediction": {
+            "name": "GREETING",
+            "confidence": 0.5659902818056163
+        }
+    },
+    {
+        "text": "Throw",
+        "intent": "REJECT",
+        "intent_prediction": {
+            "name": "GREETING",
+            "confidence": 0.5615769734943077
+        }
+    },
+    {
+        "text": "Disagreed",
+        "intent": "REJECT",
+        "intent_prediction": {
+            "name": "GREETING",
+            "confidence": 0.570596097870657
+        }
+    },
+    {
+        "text": "Sad to hear it",
+        "intent": "REJECT",
+        "intent_prediction": {
+            "name": "GREETING",
+            "confidence": 0.37344663225621333
+        }
+    },
+    {
+        "text": "Wrong",
+        "intent": "REJECT",
+        "intent_prediction": {
+            "name": "GREETING",
+            "confidence": 0.38670565999936085
+        }
+    },
+    {
+        "text": "Nooo",
+        "intent": "REJECT",
+        "intent_prediction": {
+            "name": "GREETING",
+            "confidence": 0.5292495032225015
+        }
+    },
+    {
+        "text": "Naa",
+        "intent": "REJECT",
+        "intent_prediction": {
+            "name": "GREETING",
+            "confidence": 0.5675941250401317
+        }
+    },
+    {
+        "text": "Yes,i will take up your offer",
+        "intent": "REJECT",
+        "intent_prediction": {
+            "name": "AFFIRM",
+            "confidence": 0.3462093135061663
+        }
+    },
+    {
+        "text": "I will definitely join you",
+        "intent": "REJECT",
+        "intent_prediction": {
+            "name": "AFFIRM",
+            "confidence": 0.392583698667478
+        }
+    },
+    {
+        "text": "I am going to have a great time with you",
+        "intent": "REJECT",
+        "intent_prediction": {
+            "name": "AFFIRM",
+            "confidence": 0.30655477739392456
+        }
+    },
+    {
+        "text": "Thanks for hiring me.I will try to keep",
+        "intent": "REJECT",
+        "intent_prediction": {
+            "name": "AFFIRM",
+            "confidence": 0.27082649502319517
+        }
+    },
+    {
+        "text": "Okay sir.I am going to do it",
+        "intent": "REJECT",
+        "intent_prediction": {
+            "name": "AFFIRM",
+            "confidence": 0.3316559078623655
+        }
+    },
+    {
+        "text": "I will definitely come with you",
+        "intent": "REJECT",
+        "intent_prediction": {
+            "name": "AFFIRM",
+            "confidence": 0.47479945854862665
+        }
+    },
+    {
+        "text": "Approve",
+        "intent": "REJECT",
+        "intent_prediction": {
+            "name": "AFFIRM",
+            "confidence": 0.38891765933171285
+        }
+    },
+    {
+        "text": "Of course , you have to get cut off mark in exam.",
+        "intent": "REJECT",
+        "intent_prediction": {
+            "name": "AFFIRM",
+            "confidence": 0.291867201853841
+        }
+    },
+    {
+        "text": "Good ,nice job",
+        "intent": "REJECT",
+        "intent_prediction": {
+            "name": "AFFIRM",
+            "confidence": 0.3237969345785873
+        }
+    },
+    {
+        "text": "Yeah,sure",
+        "intent": "REJECT",
+        "intent_prediction": {
+            "name": "AFFIRM",
+            "confidence": 0.3421932600498405
+        }
+    },
+    {
+        "text": "Thums up",
+        "intent": "REJECT",
+        "intent_prediction": {
+            "name": "AFFIRM",
+            "confidence": 0.40912225583501366
+        }
+    },
+    {
+        "text": "Find an internship in ml field",
+        "intent": "CAREER",
+        "intent_prediction": {
+            "name": "JOB_SEARCH",
+            "confidence": 0.614488782961412
+        }
+    },
+    {
+        "text": "Tell me job options in delhi for a btech graduate",
+        "intent": "CAREER",
+        "intent_prediction": {
+            "name": "JOB_SEARCH",
+            "confidence": 0.4815318551355986
+        }
+    },
+    {
+        "text": "Find some jobs in banglore for a btech graduate",
+        "intent": "CAREER",
+        "intent_prediction": {
+            "name": "JOB_SEARCH",
+            "confidence": 0.5936629357215005
+        }
+    },
+    {
+        "text": "Find me an internship in electronics field",
+        "intent": "CAREER",
+        "intent_prediction": {
+            "name": "JOB_SEARCH",
+            "confidence": 0.5935856402086811
+        }
+    },
+    {
+        "text": "I am an computer science btech graduate find some jobs for me",
+        "intent": "CAREER",
+        "intent_prediction": {
+            "name": "JOB_SEARCH",
+            "confidence": 0.5728340282397395
+        }
+    },
+    {
+        "text": "I am an automation engineer find some jobs for me",
+        "intent": "CAREER",
+        "intent_prediction": {
+            "name": "JOB_SEARCH",
+            "confidence": 0.41236926833477755
+        }
+    },
+    {
+        "text": "Find some jobs in ai field for a mtech in ai",
+        "intent": "CAREER",
+        "intent_prediction": {
+            "name": "JOB_SEARCH",
+            "confidence": 0.5346731005039874
+        }
+    },
+    {
+        "text": "Find a job for me in an it comapny",
+        "intent": "CAREER",
+        "intent_prediction": {
+            "name": "JOB_SEARCH",
+            "confidence": 0.6719977372766456
+        }
+    },
+    {
+        "text": "I am a mechanical btech graduate and looking for a job in it suggest me the way",
+        "intent": "CAREER",
+        "intent_prediction": {
+            "name": "JOB_SEARCH",
+            "confidence": 0.6419722225600891
+        }
+    },
+    {
+        "text": "Job opportunity in cloud computing",
+        "intent": "CAREER",
+        "intent_prediction": {
+            "name": "JOB_SEARCH",
+            "confidence": 0.4532041289812286
+        }
+    },
+    {
+        "text": "Find me some jobs in cyber security",
+        "intent": "CAREER",
+        "intent_prediction": {
+            "name": "JOB_SEARCH",
+            "confidence": 0.5026753814887749
+        }
+    },
+    {
+        "text": "What are the companies offering physical design jobs",
+        "intent": "CAREER",
+        "intent_prediction": {
+            "name": "JOB_SEARCH",
+            "confidence": 0.5959439753229275
+        }
+    },
+    {
+        "text": "What are the companies offering analog layout design jobs",
+        "intent": "CAREER",
+        "intent_prediction": {
+            "name": "JOB_SEARCH",
+            "confidence": 0.593994640612908
+        }
+    },
+    {
+        "text": "What is the difference between data analyst and data scientist",
+        "intent": "CAREER",
+        "intent_prediction": {
+            "name": "JOB_SEARCH",
+            "confidence": 0.4765479482385835
+        }
+    },
+    {
+        "text": "Science or commerce?",
+        "intent": "CAREER",
+        "intent_prediction": {
+            "name": "JOB_SEARCH",
+            "confidence": 0.6393120439578569
+        }
+    },
+    {
+        "text": "Java or python in future?",
+        "intent": "CAREER",
+        "intent_prediction": {
+            "name": "JOB_SEARCH",
+            "confidence": 0.4743226523394321
+        }
+    },
+    {
+        "text": "What are the technical skills required to enter into ai,ml field",
+        "intent": "CAREER",
+        "intent_prediction": {
+            "name": "JOB_SEARCH",
+            "confidence": 0.4952451959629161
+        }
+    },
+    {
+        "text": "Which is the booming technology in it indusry?",
+        "intent": "CAREER",
+        "intent_prediction": {
+            "name": "JOB_SEARCH",
+            "confidence": 0.6616727781366261
+        }
+    },
+    {
+        "text": "What career options i have after 12th?",
+        "intent": "CAREER",
+        "intent_prediction": {
+            "name": "JOB_SEARCH",
+            "confidence": 0.49741467053688354
+        }
+    },
+    {
+        "text": "I did bsc, what shall i learn to get a good job",
+        "intent": "CAREER",
+        "intent_prediction": {
+            "name": "JOB_SEARCH",
+            "confidence": 0.4597421243500628
+        }
+    },
+    {
+        "text": "Python is helpful for my job?",
+        "intent": "CAREER",
+        "intent_prediction": {
+            "name": "JOB_SEARCH",
+            "confidence": 0.6776826038149912
+        }
+    },
+    {
+        "text": "I love coding, but i did mba, what shall i do",
+        "intent": "CAREER",
+        "intent_prediction": {
+            "name": "JOB_SEARCH",
+            "confidence": 0.5054023916887947
+        }
+    },
+    {
+        "text": "How to get a job",
+        "intent": "CAREER",
+        "intent_prediction": {
+            "name": "JOB_SEARCH",
+            "confidence": 0.6257468053559195
+        }
+    },
+    {
+        "text": "What shall i make my child study to get him a job",
+        "intent": "CAREER",
+        "intent_prediction": {
+            "name": "JOB_SEARCH",
+            "confidence": 0.6430943097827081
+        }
+    },
+    {
+        "text": "Sciene or commerce?",
+        "intent": "CAREER",
+        "intent_prediction": {
+            "name": "JOB_SEARCH",
+            "confidence": 0.6072613834253311
+        }
+    },
+    {
+        "text": "Be or mbbs?",
+        "intent": "CAREER",
+        "intent_prediction": {
+            "name": "JOB_SEARCH",
+            "confidence": 0.6053049707950391
+        }
+    },
+    {
+        "text": "Which has more value java or python to get a job",
+        "intent": "CAREER",
+        "intent_prediction": {
+            "name": "JOB_SEARCH",
+            "confidence": 0.436109460035652
+        }
+    },
+    {
+        "text": "How can i join army?",
+        "intent": "CAREER",
+        "intent_prediction": {
+            "name": "JOB_SEARCH",
+            "confidence": 0.5809943514464144
+        }
+    },
+    {
+        "text": "How can i become police",
+        "intent": "CAREER",
+        "intent_prediction": {
+            "name": "JOB_SEARCH",
+            "confidence": 0.5175250899796113
+        }
+    },
+    {
+        "text": "Which field has more scope?",
+        "intent": "CAREER",
+        "intent_prediction": {
+            "name": "JOB_SEARCH",
+            "confidence": 0.5962926932585341
+        }
+    },
+    {
+        "text": "What's an ideal job?",
+        "intent": "CAREER",
+        "intent_prediction": {
+            "name": "JOB_SEARCH",
+            "confidence": 0.7835494450609403
+        }
+    },
+    {
+        "text": "Best job in india",
+        "intent": "CAREER",
+        "intent_prediction": {
+            "name": "JOB_SEARCH",
+            "confidence": 0.39477527928103684
+        }
+    },
+    {
+        "text": "How to job in canada",
+        "intent": "CAREER",
+        "intent_prediction": {
+            "name": "JOB_SEARCH",
+            "confidence": 0.6030602197982327
+        }
+    },
+    {
+        "text": "How to become ceo of google?",
+        "intent": "CAREER",
+        "intent_prediction": {
+            "name": "JOB_SEARCH",
+            "confidence": 0.5837785306992967
+        }
+    },
+    {
+        "text": "How to become professional hacker?",
+        "intent": "CAREER",
+        "intent_prediction": {
+            "name": "JOB_SEARCH",
+            "confidence": 0.5910471823356546
+        }
+    },
+    {
+        "text": "Best online site to study?",
+        "intent": "CAREER",
+        "intent_prediction": {
+            "name": "JOB_SEARCH",
+            "confidence": 0.3287724481009965
+        }
+    },
+    {
+        "text": "How to become web developer?",
+        "intent": "CAREER",
+        "intent_prediction": {
+            "name": "JOB_SEARCH",
+            "confidence": 0.6015822027589657
+        }
+    },
+    {
+        "text": "Career in politics?",
+        "intent": "CAREER",
+        "intent_prediction": {
+            "name": "JOB_SEARCH",
+            "confidence": 0.5886123712114995
+        }
+    },
+    {
+        "text": "Is it worth to study python?",
+        "intent": "CAREER",
+        "intent_prediction": {
+            "name": "JOB_SEARCH",
+            "confidence": 0.5894295957023188
+        }
+    },
+    {
+        "text": "How can i become programmer?",
+        "intent": "CAREER",
+        "intent_prediction": {
+            "name": "JOB_SEARCH",
+            "confidence": 0.6215808351879004
+        }
+    },
+    {
+        "text": "How can i become bank manager?",
+        "intent": "CAREER",
+        "intent_prediction": {
+            "name": "JOB_SEARCH",
+            "confidence": 0.6534131418451258
+        }
+    },
+    {
+        "text": "How is future for data scientist",
+        "intent": "CAREER",
+        "intent_prediction": {
+            "name": "JOB_SEARCH",
+            "confidence": 0.4741206835396345
+        }
+    },
+    {
+        "text": "How to get job in google",
+        "intent": "CAREER",
+        "intent_prediction": {
+            "name": "JOB_SEARCH",
+            "confidence": 0.644719050576874
+        }
+    },
+    {
+        "text": "What are the upcoming career options for electronics engineer?",
+        "intent": "CAREER",
+        "intent_prediction": {
+            "name": "JOB_SEARCH",
+            "confidence": 0.5208339318177582
+        }
+    },
+    {
+        "text": "What are the upcoming career options for electrical engineer?",
+        "intent": "CAREER",
+        "intent_prediction": {
+            "name": "JOB_SEARCH",
+            "confidence": 0.549481170378273
+        }
+    },
+    {
+        "text": "What are the upcoming career options for computer science students?",
+        "intent": "CAREER",
+        "intent_prediction": {
+            "name": "JOB_SEARCH",
+            "confidence": 0.5186684719779291
+        }
+    },
+    {
+        "text": "Which programming language should i learn for machine learning",
+        "intent": "CAREER",
+        "intent_prediction": {
+            "name": "JOB_SEARCH",
+            "confidence": 0.5054370893230334
+        }
+    },
+    {
+        "text": "How to start a business?",
+        "intent": "CAREER",
+        "intent_prediction": {
+            "name": "JOB_SEARCH",
+            "confidence": 0.5838857654446994
+        }
+    },
+    {
+        "text": "What are the upcoming career options for mechanincal engineer?",
+        "intent": "CAREER",
+        "intent_prediction": {
+            "name": "JOB_SEARCH",
+            "confidence": 0.5923807107558103
+        }
+    },
+    {
+        "text": "How to start a private medical clinic?",
+        "intent": "CAREER",
+        "intent_prediction": {
+            "name": "JOB_SEARCH",
+            "confidence": 0.5148856037567007
+        }
+    },
+    {
+        "text": "How to start a medical clinic?",
+        "intent": "CAREER",
+        "intent_prediction": {
+            "name": "JOB_SEARCH",
+            "confidence": 0.5913337068462213
+        }
+    },
+    {
+        "text": "How to become an entreprenuer?",
+        "intent": "CAREER",
+        "intent_prediction": {
+            "name": "JOB_SEARCH",
+            "confidence": 0.6275919844953342
+        }
+    },
+    {
+        "text": "Career options for an mba student",
+        "intent": "CAREER",
+        "intent_prediction": {
+            "name": "JOB_SEARCH",
+            "confidence": 0.5868015852515716
+        }
+    },
+    {
+        "text": "Best programming language for beginners",
+        "intent": "CAREER",
+        "intent_prediction": {
+            "name": "JOB_SEARCH",
+            "confidence": 0.43726889707225497
+        }
+    },
+    {
+        "text": "Btech or bsc.What's the difference?",
+        "intent": "CAREER",
+        "intent_prediction": {
+            "name": "JOB_SEARCH",
+            "confidence": 0.44232480306810157
+        }
+    },
+    {
+        "text": "Is mtech required for better career options?",
+        "intent": "CAREER",
+        "intent_prediction": {
+            "name": "JOB_SEARCH",
+            "confidence": 0.5536087145304726
+        }
+    },
+    {
+        "text": "Best universities in usa for pursuing ms",
+        "intent": "CAREER",
+        "intent_prediction": {
+            "name": "JOB_SEARCH",
+            "confidence": 0.4788209801828555
+        }
+    },
+    {
+        "text": "Best universities for pursuing ms",
+        "intent": "CAREER",
+        "intent_prediction": {
+            "name": "JOB_SEARCH",
+            "confidence": 0.5934027244722744
+        }
+    },
+    {
+        "text": "Web designing or app development.Which has better scope?",
+        "intent": "CAREER",
+        "intent_prediction": {
+            "name": "JOB_SEARCH",
+            "confidence": 0.6114879052395549
+        }
+    },
+    {
+        "text": "What is the best department for pursuing btech?",
+        "intent": "CAREER",
+        "intent_prediction": {
+            "name": "JOB_SEARCH",
+            "confidence": 0.4798790925207286
+        }
+    },
+    {
+        "text": "Best universities for llb course",
+        "intent": "CAREER",
+        "intent_prediction": {
+            "name": "JOB_SEARCH",
+            "confidence": 0.48624346100823385
+        }
+    },
+    {
+        "text": "Difference between data scientist and data analytics",
+        "intent": "CAREER",
+        "intent_prediction": {
+            "name": "JOB_SEARCH",
+            "confidence": 0.4543855726209169
+        }
+    },
+    {
+        "text": "Tcs or infosys job.Which should i prefer",
+        "intent": "CAREER",
+        "intent_prediction": {
+            "name": "JOB_SEARCH",
+            "confidence": 0.40201266729385815
+        }
+    },
+    {
+        "text": "What careers make a lot of money?",
+        "intent": "CAREER",
+        "intent_prediction": {
+            "name": "JOB_SEARCH",
+            "confidence": 0.49566938622268475
+        }
+    },
+    {
+        "text": "Hotel management or business management.What should i opt",
+        "intent": "CAREER",
+        "intent_prediction": {
+            "name": "JOB_SEARCH",
+            "confidence": 0.4849954078531881
+        }
+    },
+    {
+        "text": "Is there any requirement for web developer ?",
+        "intent": "CAREER",
+        "intent_prediction": {
+            "name": "JOB_SEARCH",
+            "confidence": 0.5377546788360229
+        }
+    },
+    {
+        "text": "What are the job openings ?",
+        "intent": "CAREER",
+        "intent_prediction": {
+            "name": "JOB_SEARCH",
+            "confidence": 0.5842322369051013
+        }
+    },
+    {
+        "text": "What are the job catogories ?",
+        "intent": "CAREER",
+        "intent_prediction": {
+            "name": "JOB_SEARCH",
+            "confidence": 0.6134514149861484
+        }
+    },
+    {
+        "text": "In which career should i move forward in cs, testing or development",
+        "intent": "CAREER",
+        "intent_prediction": {
+            "name": "JOB_SEARCH",
+            "confidence": 0.5592038982292725
+        }
+    },
+    {
+        "text": "What are the job trends in aviation",
+        "intent": "CAREER",
+        "intent_prediction": {
+            "name": "JOB_SEARCH",
+            "confidence": 0.5039871748277522
+        }
+    },
+    {
+        "text": "Which career is more suitable after mba, starting a company or a job",
+        "intent": "CAREER",
+        "intent_prediction": {
+            "name": "JOB_SEARCH",
+            "confidence": 0.530131502917131
+        }
+    },
+    {
+        "text": "What pays more in law career, practise or job in law firm",
+        "intent": "CAREER",
+        "intent_prediction": {
+            "name": "JOB_SEARCH",
+            "confidence": 0.5527381432434133
+        }
+    },
+    {
+        "text": "Career options in ml field",
+        "intent": "CAREER",
+        "intent_prediction": {
+            "name": "JOB_SEARCH",
+            "confidence": 0.6093113563977162
+        }
+    },
+    {
+        "text": "How to get started with a career in robotics",
+        "intent": "CAREER",
+        "intent_prediction": {
+            "name": "JOB_SEARCH",
+            "confidence": 0.4501632629519816
+        }
+    },
+    {
+        "text": "How to get started to pursue a career in photography",
+        "intent": "CAREER",
+        "intent_prediction": {
+            "name": "JOB_SEARCH",
+            "confidence": 0.5445207685181394
+        }
+    },
+    {
+        "text": "How to get started with a career in pharmacy",
+        "intent": "CAREER",
+        "intent_prediction": {
+            "name": "JOB_SEARCH",
+            "confidence": 0.4395492393417768
+        }
+    },
+    {
+        "text": "How to get started with a career in accounts",
+        "intent": "CAREER",
+        "intent_prediction": {
+            "name": "JOB_SEARCH",
+            "confidence": 0.4068135580875579
+        }
+    },
+    {
+        "text": "How to get started with a career in medical",
+        "intent": "CAREER",
+        "intent_prediction": {
+            "name": "JOB_SEARCH",
+            "confidence": 0.45049503971380606
+        }
+    },
+    {
+        "text": "What is the best engineering course to pursue as a career in australia",
+        "intent": "CAREER",
+        "intent_prediction": {
+            "name": "JOB_SEARCH",
+            "confidence": 0.46170929413726974
+        }
+    },
+    {
+        "text": "How to promote my career in hotel management?",
+        "intent": "CAREER",
+        "intent_prediction": {
+            "name": "JOB_SEARCH",
+            "confidence": 0.6205303538309955
+        }
+    },
+    {
+        "text": "Which line is preferable for a white collar job career",
+        "intent": "CAREER",
+        "intent_prediction": {
+            "name": "JOB_SEARCH",
+            "confidence": 0.5511018939506638
+        }
+    },
+    {
+        "text": "How to take my career one step forward",
+        "intent": "CAREER",
+        "intent_prediction": {
+            "name": "JOB_SEARCH",
+            "confidence": 0.5481184627974899
+        }
+    },
+    {
+        "text": "What career options will i get after bachelor of hotel management?",
+        "intent": "CAREER",
+        "intent_prediction": {
+            "name": "JOB_SEARCH",
+            "confidence": 0.5806803655041337
+        }
+    },
+    {
+        "text": "What are the career options for fresher?",
+        "intent": "CAREER",
+        "intent_prediction": {
+            "name": "JOB_SEARCH",
+            "confidence": 0.5354747726893327
+        }
+    },
+    {
+        "text": "What are career options for me after learning java?",
+        "intent": "CAREER",
+        "intent_prediction": {
+            "name": "JOB_SEARCH",
+            "confidence": 0.40037041198189405
+        }
+    },
+    {
+        "text": "Career to become a teacher?",
+        "intent": "CAREER",
+        "intent_prediction": {
+            "name": "JOB_SEARCH",
+            "confidence": 0.49023734926173257
+        }
+    },
+    {
+        "text": "Welcome",
+        "intent": "GREETING",
+        "intent_prediction": {
+            "name": "REJECT",
+            "confidence": 0.3343452441775779
+        }
+    },
+    {
+        "text": "Welcome",
+        "intent": "GREETING",
+        "intent_prediction": {
+            "name": "REJECT",
+            "confidence": 0.3343452441775779
+        }
+    }
+]

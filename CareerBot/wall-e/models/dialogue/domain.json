@@ -1,0 +1,31 @@
+{
+  "states": [
+    "intent_AFFIRM",
+    "intent_CAREER",
+    "intent_EXAM",
+    "intent_GREETING",
+    "intent_JOB_SEARCH",
+    "intent_REJECT",
+    "intent_SALARY",
+    "intent_STUDY",
+    "entity_category",
+    "slot_category_0",
+    "prev_action_listen",
+    "prev_action_restart",
+    "prev_action_default_fallback",
+    "prev_action_deactivate_form",
+    "prev_action_revert_fallback_events",
+    "prev_action_default_ask_affirmation",
+    "prev_action_default_ask_rephrase",
+    "prev_action_back",
+    "prev_utter_AFFIRM",
+    "prev_utter_EXAM",
+    "prev_utter_REJECT",
+    "prev_utter_JOB_SEARCH",
+    "prev_utter_CAREER",
+    "prev_utter_SALARY",
+    "prev_utter_GREETING",
+    "prev_utter_default",
+    "prev_utter_STUDY"
+  ]
+}

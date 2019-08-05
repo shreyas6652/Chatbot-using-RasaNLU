@@ -1,0 +1,52 @@
+{
+  "action_fingerprints": {
+    "action_listen": {
+      "slots": []
+    },
+    "utter_AFFIRM": {
+      "slots": []
+    },
+    "utter_REJECT": {
+      "slots": []
+    },
+    "utter_EXAM": {
+      "slots": []
+    },
+    "utter_default": {
+      "slots": []
+    },
+    "utter_JOB_SEARCH": {
+      "slots": []
+    },
+    "utter_GREETING": {
+      "slots": []
+    },
+    "utter_STUDY": {
+      "slots": []
+    },
+    "utter_SALARY": {
+      "slots": []
+    },
+    "utter_CAREER": {
+      "slots": []
+    }
+  },
+  "python": "3.6.8",
+  "max_histories": [
+    3,
+    3,
+    null,
+    2
+  ],
+  "ensemble_name": "rasa_core.policies.ensemble.SimplePolicyEnsemble",
+  "policy_names": [
+    "rasa_core.policies.keras_policy.KerasPolicy",
+    "rasa_core.policies.memoization.MemoizationPolicy",
+    "rasa_core.policies.fallback.FallbackPolicy",
+    "rasa_core.policies.form_policy.FormPolicy"
+  ],
+  "trained_at": "20190805-183348",
+  "rasa_core": "0.14.5",
+  "tensorflow": "1.13.2",
+  "sklearn": "0.20.3"
+}

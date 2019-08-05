@@ -1,0 +1,7129 @@
+{
+  "rasa_nlu_data": {
+    "common_examples": [
+      {
+        "intent": "AFFIRM",
+        "text": "Good work"
+      },
+      {
+        "intent": "AFFIRM",
+        "text": "Nice"
+      },
+      {
+        "intent": "AFFIRM",
+        "text": "Good,keep it up"
+      },
+      {
+        "intent": "AFFIRM",
+        "text": "Awesome"
+      },
+      {
+        "intent": "AFFIRM",
+        "text": "Top notch"
+      },
+      {
+        "intent": "AFFIRM",
+        "text": "Wow amazing"
+      },
+      {
+        "intent": "AFFIRM",
+        "text": "Exciting"
+      },
+      {
+        "intent": "AFFIRM",
+        "text": "Done"
+      },
+      {
+        "intent": "AFFIRM",
+        "text": "Very good"
+      },
+      {
+        "intent": "AFFIRM",
+        "text": "Good going"
+      },
+      {
+        "intent": "AFFIRM",
+        "text": "You can do it"
+      },
+      {
+        "intent": "AFFIRM",
+        "text": "You can proceed"
+      },
+      {
+        "intent": "AFFIRM",
+        "text": "You can proceed further"
+      },
+      {
+        "intent": "AFFIRM",
+        "text": "Icing on the cake"
+      },
+      {
+        "intent": "AFFIRM",
+        "text": "Good"
+      },
+      {
+        "intent": "AFFIRM",
+        "text": "Approved"
+      },
+      {
+        "intent": "AFFIRM",
+        "text": "Permitted"
+      },
+      {
+        "intent": "AFFIRM",
+        "text": "Totally fine"
+      },
+      {
+        "intent": "AFFIRM",
+        "text": "Yes, you are right"
+      },
+      {
+        "intent": "AFFIRM",
+        "text": "Perfectly alright"
+      },
+      {
+        "intent": "AFFIRM",
+        "text": "I loved it"
+      },
+      {
+        "intent": "AFFIRM",
+        "text": "You are going good"
+      },
+      {
+        "intent": "AFFIRM",
+        "text": "Nice, i liked it"
+      },
+      {
+        "intent": "AFFIRM",
+        "text": "Yes,thak you"
+      },
+      {
+        "intent": "AFFIRM",
+        "text": "Yeah,thank you"
+      },
+      {
+        "intent": "AFFIRM",
+        "text": "I am very happy to work with you"
+      },
+      {
+        "intent": "AFFIRM",
+        "text": "I am looking forward to work with you"
+      },
+      {
+        "intent": "AFFIRM",
+        "text": "Thank you for this great offer.When should i join"
+      },
+      {
+        "intent": "AFFIRM",
+        "text": "When should i join"
+      },
+      {
+        "intent": "AFFIRM",
+        "text": "I am grateful for having this opportunity"
+      },
+      {
+        "intent": "AFFIRM",
+        "text": "I am very grateful for your offer"
+      },
+      {
+        "intent": "AFFIRM",
+        "text": "Absolutely we can proceed"
+      },
+      {
+        "intent": "AFFIRM",
+        "text": "I totally agree with you"
+      },
+      {
+        "intent": "AFFIRM",
+        "text": "We are going to do this"
+      },
+      {
+        "intent": "AFFIRM",
+        "text": "I am happy that we are going to work together"
+      },
+      {
+        "intent": "AFFIRM",
+        "text": "Thank you,that is my dream job"
+      },
+      {
+        "intent": "AFFIRM",
+        "text": "We are going to verify this together"
+      },
+      {
+        "intent": "AFFIRM",
+        "text": "You are correct"
+      },
+      {
+        "intent": "AFFIRM",
+        "text": "Yes,i will join you"
+      },
+      {
+        "intent": "AFFIRM",
+        "text": "Yes,i will meet you tomorrow"
+      },
+      {
+        "intent": "AFFIRM",
+        "text": "Yes,i will take up your offer"
+      },
+      {
+        "intent": "AFFIRM",
+        "text": "Yes,i am accepting your offer"
+      },
+      {
+        "intent": "AFFIRM",
+        "text": "I do"
+      },
+      {
+        "intent": "AFFIRM",
+        "text": "I shall"
+      },
+      {
+        "intent": "AFFIRM",
+        "text": "I will definitely join you"
+      },
+      {
+        "intent": "AFFIRM",
+        "text": "You are absolutely right"
+      },
+      {
+        "intent": "AFFIRM",
+        "text": "I will participate in the event"
+      },
+      {
+        "intent": "AFFIRM",
+        "text": "I am okay with it"
+      },
+      {
+        "intent": "AFFIRM",
+        "text": "I am going to have a great time with you"
+      },
+      {
+        "intent": "AFFIRM",
+        "text": "I will be waiting for the time to work with you"
+      },
+      {
+        "intent": "AFFIRM",
+        "text": "We will do it together"
+      },
+      {
+        "intent": "AFFIRM",
+        "text": "We should do it together"
+      },
+      {
+        "intent": "AFFIRM",
+        "text": "This plan have to be implemented"
+      },
+      {
+        "intent": "AFFIRM",
+        "text": "I am accepting this job offer"
+      },
+      {
+        "intent": "AFFIRM",
+        "text": "Thanks for hiring me.I will try to keep"
+      },
+      {
+        "intent": "AFFIRM",
+        "text": "I will try to keep up your expectations"
+      },
+      {
+        "intent": "AFFIRM",
+        "text": "Okay sir.I am going to do it"
+      },
+      {
+        "intent": "AFFIRM",
+        "text": "Definitely,you can go further"
+      },
+      {
+        "intent": "AFFIRM",
+        "text": "I will definitely come with you"
+      },
+      {
+        "intent": "AFFIRM",
+        "text": "I will definitely follow you"
+      },
+      {
+        "intent": "AFFIRM",
+        "text": "Please proceed"
+      },
+      {
+        "intent": "AFFIRM",
+        "text": "I am interested in it"
+      },
+      {
+        "intent": "AFFIRM",
+        "text": "Approve"
+      },
+      {
+        "intent": "AFFIRM",
+        "text": "Nice, i liked it"
+      },
+      {
+        "intent": "AFFIRM",
+        "text": "Welcome"
+      },
+      {
+        "intent": "AFFIRM",
+        "text": "Go for"
+      },
+      {
+        "intent": "AFFIRM",
+        "text": "Allow"
+      },
+      {
+        "intent": "AFFIRM",
+        "text": "Bless"
+      },
+      {
+        "intent": "AFFIRM",
+        "text": "Let pass"
+      },
+      {
+        "intent": "AFFIRM",
+        "text": "License"
+      },
+      {
+        "intent": "AFFIRM",
+        "text": "Granted"
+      },
+      {
+        "intent": "AFFIRM",
+        "text": "Yup,you can."
+      },
+      {
+        "intent": "AFFIRM",
+        "text": "Conformed"
+      },
+      {
+        "intent": "AFFIRM",
+        "text": "Surely,we provde information in this requirement."
+      },
+      {
+        "intent": "AFFIRM",
+        "text": "Of course , you have to get cut off mark in exam."
+      },
+      {
+        "intent": "AFFIRM",
+        "text": "Truly"
+      },
+      {
+        "intent": "AFFIRM",
+        "text": "Actually"
+      },
+      {
+        "intent": "AFFIRM",
+        "text": "Extremly"
+      },
+      {
+        "intent": "AFFIRM",
+        "text": "Undeniably"
+      },
+      {
+        "intent": "AFFIRM",
+        "text": "Good ,nice job"
+      },
+      {
+        "intent": "AFFIRM",
+        "text": "For surely, you can do that"
+      },
+      {
+        "intent": "AFFIRM",
+        "text": "Nice, you can apply it"
+      },
+      {
+        "intent": "AFFIRM",
+        "text": "Good , go ahead"
+      },
+      {
+        "intent": "AFFIRM",
+        "text": "Yeah,sure"
+      },
+      {
+        "intent": "AFFIRM",
+        "text": "Yes,go on"
+      },
+      {
+        "intent": "AFFIRM",
+        "text": "Yes,sure"
+      },
+      {
+        "intent": "AFFIRM",
+        "text": "I am good with this go on"
+      },
+      {
+        "intent": "AFFIRM",
+        "text": "Thums up"
+      },
+      {
+        "intent": "AFFIRM",
+        "text": "Good go on"
+      },
+      {
+        "intent": "AFFIRM",
+        "text": "Exactly"
+      },
+      {
+        "intent": "AFFIRM",
+        "text": "You are awesome"
+      },
+      {
+        "intent": "AFFIRM",
+        "text": "You are best"
+      },
+      {
+        "intent": "AFFIRM",
+        "text": "You deserve it."
+      },
+      {
+        "intent": "AFFIRM",
+        "text": "You are unique."
+      },
+      {
+        "intent": "AFFIRM",
+        "text": "I appreciate it"
+      },
+      {
+        "intent": "AFFIRM",
+        "text": "You are great"
+      },
+      {
+        "intent": "EXAM",
+        "text": "Upcoming electrical department exams"
+      },
+      {
+        "intent": "EXAM",
+        "text": "Upcoming electrical department a exams"
+      },
+      {
+        "intent": "EXAM",
+        "text": "Which exam to appear for medical"
+      },
+      {
+        "intent": "EXAM",
+        "text": "How to appear for gate"
+      },
+      {
+        "intent": "EXAM",
+        "text": "How to prepare for gate"
+      },
+      {
+        "intent": "EXAM",
+        "text": "Is gate necessary for engineering students"
+      },
+      {
+        "intent": "EXAM",
+        "text": "Does gate increase value in resume"
+      },
+      {
+        "intent": "EXAM",
+        "text": "Can i clear gate in 2 months"
+      },
+      {
+        "intent": "EXAM",
+        "text": "How to clear gate in 6 months"
+      },
+      {
+        "intent": "EXAM",
+        "text": "What to study for gate"
+      },
+      {
+        "intent": "EXAM",
+        "text": "Where to take coaching for gate"
+      },
+      {
+        "intent": "EXAM",
+        "text": "What books to study for gate"
+      },
+      {
+        "intent": "EXAM",
+        "text": "Is gate compulsory for engineering students"
+      },
+      {
+        "intent": "EXAM",
+        "text": "What is the eligibility criteria for gate"
+      },
+      {
+        "intent": "EXAM",
+        "text": "How much is the fees for gate"
+      },
+      {
+        "intent": "EXAM",
+        "text": "Fees for gate"
+      },
+      {
+        "intent": "EXAM",
+        "text": "Qualifications for cat"
+      },
+      {
+        "intent": "EXAM",
+        "text": "Is cat important for engineers"
+      },
+      {
+        "intent": "EXAM",
+        "text": "Who gives cat exam"
+      },
+      {
+        "intent": "EXAM",
+        "text": "How to appear for cat"
+      },
+      {
+        "intent": "EXAM",
+        "text": "Why people go for cat"
+      },
+      {
+        "intent": "EXAM",
+        "text": "Difference between gate and gre"
+      },
+      {
+        "intent": "EXAM",
+        "text": "Is gre an important exam"
+      },
+      {
+        "intent": "EXAM",
+        "text": "Is toefl and gre same"
+      },
+      {
+        "intent": "EXAM",
+        "text": "Can i apply for both gate and gre"
+      },
+      {
+        "intent": "EXAM",
+        "text": "Do adobe provide certification exams"
+      },
+      {
+        "intent": "EXAM",
+        "text": "What kind of exam is gmat"
+      },
+      {
+        "intent": "EXAM",
+        "text": "Is gmat required for engineers"
+      },
+      {
+        "intent": "EXAM",
+        "text": "Which certification exams are important for data scientists"
+      },
+      {
+        "intent": "EXAM",
+        "text": "Is tableau certification good enough"
+      },
+      {
+        "intent": "EXAM",
+        "text": "Do microsoft provide certification exams"
+      },
+      {
+        "intent": "EXAM",
+        "text": "Oracle certified vs google certified"
+      },
+      {
+        "intent": "EXAM",
+        "text": "Google certification exams"
+      },
+      {
+        "intent": "EXAM",
+        "text": "What exams to appear after graduating"
+      },
+      {
+        "intent": "EXAM",
+        "text": "Engineering exams after graduating"
+      },
+      {
+        "intent": "EXAM",
+        "text": "Do ceertification exmas have any value"
+      },
+      {
+        "intent": "EXAM",
+        "text": "Apple certification exam cost"
+      },
+      {
+        "intent": "EXAM",
+        "text": "Ccna cost"
+      },
+      {
+        "intent": "EXAM",
+        "text": "Eligibility criteria for ccna"
+      },
+      {
+        "intent": "EXAM",
+        "text": "How to appear for ccna exams"
+      },
+      {
+        "intent": "EXAM",
+        "text": "List of certification exams for data scientist"
+      },
+      {
+        "intent": "EXAM",
+        "text": "Ethical hacking certification exams"
+      },
+      {
+        "intent": "EXAM",
+        "text": "Cost of ceh"
+      },
+      {
+        "intent": "EXAM",
+        "text": "Should i appear for gate"
+      },
+      {
+        "intent": "EXAM",
+        "text": "Should i take certification from microsoft"
+      },
+      {
+        "intent": "EXAM",
+        "text": "Is amazon certified worthy"
+      },
+      {
+        "intent": "EXAM",
+        "text": "Books to study for pmp"
+      },
+      {
+        "intent": "EXAM",
+        "text": "Govt exams for cse students"
+      },
+      {
+        "intent": "EXAM",
+        "text": "How to clear interviews for govt jobs"
+      },
+      {
+        "intent": "EXAM",
+        "text": "Scholarship exams this week"
+      },
+      {
+        "intent": "EXAM",
+        "text": "Upcoming govt exams"
+      },
+      {
+        "intent": "EXAM",
+        "text": "Gre preparation tips"
+      },
+      {
+        "intent": "EXAM",
+        "text": "Gmat exam syllabus"
+      },
+      {
+        "intent": "REJECT",
+        "text": "None"
+      },
+      {
+        "intent": "REJECT",
+        "text": "I cant accept"
+      },
+      {
+        "intent": "REJECT",
+        "text": "I dont like"
+      },
+      {
+        "intent": "REJECT",
+        "text": "I am not okay with this"
+      },
+      {
+        "intent": "REJECT",
+        "text": "Suggest something else"
+      },
+      {
+        "intent": "REJECT",
+        "text": "Not okay with this"
+      },
+      {
+        "intent": "REJECT",
+        "text": "Would like something better"
+      },
+      {
+        "intent": "REJECT",
+        "text": "I can't accept this"
+      },
+      {
+        "intent": "REJECT",
+        "text": "Not this one"
+      },
+      {
+        "intent": "REJECT",
+        "text": "Stop"
+      },
+      {
+        "intent": "REJECT",
+        "text": "I don't think this will work"
+      },
+      {
+        "intent": "REJECT",
+        "text": "Denied"
+      },
+      {
+        "intent": "REJECT",
+        "text": "No,not like that"
+      },
+      {
+        "intent": "REJECT",
+        "text": "Not at all"
+      },
+      {
+        "intent": "REJECT",
+        "text": "Never going to happened"
+      },
+      {
+        "intent": "REJECT",
+        "text": "Not agree"
+      },
+      {
+        "intent": "REJECT",
+        "text": "Not availble"
+      },
+      {
+        "intent": "REJECT",
+        "text": "Not present"
+      },
+      {
+        "intent": "REJECT",
+        "text": "Not conformed"
+      },
+      {
+        "intent": "REJECT",
+        "text": "Not easy"
+      },
+      {
+        "intent": "REJECT",
+        "text": "Something wrong"
+      },
+      {
+        "intent": "REJECT",
+        "text": "Not right"
+      },
+      {
+        "intent": "REJECT",
+        "text": "Not sure"
+      },
+      {
+        "intent": "REJECT",
+        "text": "I don't need"
+      },
+      {
+        "intent": "REJECT",
+        "text": "Don't want"
+      },
+      {
+        "intent": "REJECT",
+        "text": "I don't need it"
+      },
+      {
+        "intent": "REJECT",
+        "text": "Not useful"
+      },
+      {
+        "intent": "REJECT",
+        "text": "I didn't like"
+      },
+      {
+        "intent": "REJECT",
+        "text": "Not worth"
+      },
+      {
+        "intent": "REJECT",
+        "text": "Not acceptable"
+      },
+      {
+        "intent": "REJECT",
+        "text": "I don't agree"
+      },
+      {
+        "intent": "REJECT",
+        "text": "Not for you"
+      },
+      {
+        "intent": "REJECT",
+        "text": "Next time"
+      },
+      {
+        "intent": "REJECT",
+        "text": "Not considerable"
+      },
+      {
+        "intent": "REJECT",
+        "text": "I don't prefer"
+      },
+      {
+        "intent": "REJECT",
+        "text": "I can't accept"
+      },
+      {
+        "intent": "REJECT",
+        "text": "Fault"
+      },
+      {
+        "intent": "REJECT",
+        "text": "Deny"
+      },
+      {
+        "intent": "REJECT",
+        "text": "Renounce"
+      },
+      {
+        "intent": "REJECT",
+        "text": "Discard"
+      },
+      {
+        "intent": "REJECT",
+        "text": "Not allowed"
+      },
+      {
+        "intent": "REJECT",
+        "text": "Throw"
+      },
+      {
+        "intent": "REJECT",
+        "text": "Thumbs down"
+      },
+      {
+        "intent": "REJECT",
+        "text": "Decline"
+      },
+      {
+        "intent": "REJECT",
+        "text": "Non-acceptance"
+      },
+      {
+        "intent": "REJECT",
+        "text": "Disapprove"
+      },
+      {
+        "intent": "REJECT",
+        "text": "Denial"
+      },
+      {
+        "intent": "REJECT",
+        "text": "Avoiding"
+      },
+      {
+        "intent": "REJECT",
+        "text": "Spurn"
+      },
+      {
+        "intent": "REJECT",
+        "text": "Eliminate"
+      },
+      {
+        "intent": "REJECT",
+        "text": "I wont"
+      },
+      {
+        "intent": "REJECT",
+        "text": "Disagreed"
+      },
+      {
+        "intent": "REJECT",
+        "text": "Sad to hear it"
+      },
+      {
+        "intent": "REJECT",
+        "text": "I never do it"
+      },
+      {
+        "intent": "REJECT",
+        "text": "Offer rejected"
+      },
+      {
+        "intent": "REJECT",
+        "text": "Sorry,i can't do it"
+      },
+      {
+        "intent": "REJECT",
+        "text": "Impossible to do"
+      },
+      {
+        "intent": "REJECT",
+        "text": "I didn't like it"
+      },
+      {
+        "intent": "REJECT",
+        "text": "Wrong"
+      },
+      {
+        "intent": "REJECT",
+        "text": "Nooo"
+      },
+      {
+        "intent": "REJECT",
+        "text": "Sorry, i didnt like it"
+      },
+      {
+        "intent": "REJECT",
+        "text": "Offer is not good"
+      },
+      {
+        "intent": "REJECT",
+        "text": "Better one"
+      },
+      {
+        "intent": "REJECT",
+        "text": "I am sorry,i can't accept your offer"
+      },
+      {
+        "intent": "REJECT",
+        "text": "I am sorry"
+      },
+      {
+        "intent": "REJECT",
+        "text": "That is actually a good offer.But, i am preoccupied"
+      },
+      {
+        "intent": "REJECT",
+        "text": "That is actually a good offer.But, i am busy"
+      },
+      {
+        "intent": "REJECT",
+        "text": "That is actually a good offer.But, i have a better offer"
+      },
+      {
+        "intent": "REJECT",
+        "text": "I don't know how to say that i cannot accept your offer"
+      },
+      {
+        "intent": "REJECT",
+        "text": "I will rather avoid it"
+      },
+      {
+        "intent": "REJECT",
+        "text": "I am sorry.I have a better offer"
+      },
+      {
+        "intent": "REJECT",
+        "text": "I am sorry.I am actually busy"
+      },
+      {
+        "intent": "REJECT",
+        "text": "Sorry,i am not interested"
+      },
+      {
+        "intent": "REJECT",
+        "text": "Sorry,i am preoccupied"
+      },
+      {
+        "intent": "REJECT",
+        "text": "I lost my interest in that field"
+      },
+      {
+        "intent": "REJECT",
+        "text": "Sorry,i am willing to pursue further studies"
+      },
+      {
+        "intent": "REJECT",
+        "text": "We will end this for everyone's good"
+      },
+      {
+        "intent": "REJECT",
+        "text": "I am going to keep a full stop to this thing."
+      },
+      {
+        "intent": "REJECT",
+        "text": "It's impossible"
+      },
+      {
+        "intent": "REJECT",
+        "text": "I am rejecting your offer"
+      },
+      {
+        "intent": "REJECT",
+        "text": "I am thinking that i am not qualified for this job"
+      },
+      {
+        "intent": "REJECT",
+        "text": "I feel like i am ineligible for this job"
+      },
+      {
+        "intent": "REJECT",
+        "text": "I will never do this job"
+      },
+      {
+        "intent": "REJECT",
+        "text": "I am not going to consider your offer"
+      },
+      {
+        "intent": "REJECT",
+        "text": "I am not going to consider your request"
+      },
+      {
+        "intent": "REJECT",
+        "text": "I am sorry for rejecting your offer"
+      },
+      {
+        "intent": "REJECT",
+        "text": "Sorry,i feel like i have to reject this offer"
+      },
+      {
+        "intent": "REJECT",
+        "text": "I don't know the reason why i am rejecting your offer"
+      },
+      {
+        "intent": "REJECT",
+        "text": "I am not going to take up this job"
+      },
+      {
+        "intent": "REJECT",
+        "text": "I don't think that is a good option"
+      },
+      {
+        "intent": "REJECT",
+        "text": "Thank you for considering me for your job.But i am sorry"
+      },
+      {
+        "intent": "REJECT",
+        "text": "I think it will not work for us."
+      },
+      {
+        "intent": "REJECT",
+        "text": "You have my best wishes in finding someone suitable for the position."
+      },
+      {
+        "intent": "REJECT",
+        "text": "No chance"
+      },
+      {
+        "intent": "REJECT",
+        "text": "I am unfit for this job"
+      },
+      {
+        "intent": "REJECT",
+        "text": "This job is not for me"
+      },
+      {
+        "intent": "REJECT",
+        "text": "I cannot do this kind of work"
+      },
+      {
+        "intent": "REJECT",
+        "text": "I cannot do this"
+      },
+      {
+        "intent": "REJECT",
+        "text": "I am not going to do it"
+      },
+      {
+        "intent": "REJECT",
+        "text": "I won't accept it"
+      },
+      {
+        "intent": "REJECT",
+        "text": "I think i can't live in that environment"
+      },
+      {
+        "intent": "REJECT",
+        "text": "I can't manage it"
+      },
+      {
+        "intent": "REJECT",
+        "text": "I may not be able to manage it"
+      },
+      {
+        "intent": "REJECT",
+        "text": "I won't be able to manage it"
+      },
+      {
+        "intent": "REJECT",
+        "text": "I should'nt have applied for it"
+      },
+      {
+        "intent": "REJECT",
+        "text": "I am not going to do it again"
+      },
+      {
+        "intent": "REJECT",
+        "text": "I am not going to agree with you"
+      },
+      {
+        "intent": "REJECT",
+        "text": "I won't"
+      },
+      {
+        "intent": "REJECT",
+        "text": "Noh"
+      },
+      {
+        "intent": "REJECT",
+        "text": "Never like that"
+      },
+      {
+        "intent": "REJECT",
+        "text": "Never mind"
+      },
+      {
+        "intent": "REJECT",
+        "text": "Not that way"
+      },
+      {
+        "intent": "REJECT",
+        "text": "Noh one"
+      },
+      {
+        "intent": "REJECT",
+        "text": "Never do"
+      },
+      {
+        "intent": "REJECT",
+        "text": "Nothing happens"
+      },
+      {
+        "intent": "REJECT",
+        "text": "Other options please"
+      },
+      {
+        "intent": "REJECT",
+        "text": "I don't think it is good option"
+      },
+      {
+        "intent": "REJECT",
+        "text": "I can't do this"
+      },
+      {
+        "intent": "REJECT",
+        "text": "Avoid"
+      },
+      {
+        "intent": "REJECT",
+        "text": "I would not do this"
+      },
+      {
+        "intent": "REJECT",
+        "text": "Not desirable option"
+      },
+      {
+        "intent": "REJECT",
+        "text": "I don't think so"
+      },
+      {
+        "intent": "REJECT",
+        "text": "I would avoid that"
+      },
+      {
+        "intent": "REJECT",
+        "text": "I would not prefer that"
+      },
+      {
+        "intent": "REJECT",
+        "text": "Its not considerable"
+      },
+      {
+        "intent": "REJECT",
+        "text": "I don't want this"
+      },
+      {
+        "intent": "REJECT",
+        "text": "Not now"
+      },
+      {
+        "intent": "REJECT",
+        "text": "Stay out of it"
+      },
+      {
+        "intent": "REJECT",
+        "text": "I don't prefer that"
+      },
+      {
+        "intent": "REJECT",
+        "text": "Not this time"
+      },
+      {
+        "intent": "REJECT",
+        "text": "Naa"
+      },
+      {
+        "intent": "REJECT",
+        "text": "No not possible"
+      },
+      {
+        "intent": "REJECT",
+        "text": "Never possible"
+      },
+      {
+        "intent": "REJECT",
+        "text": "I don't think it's possible"
+      },
+      {
+        "intent": "REJECT",
+        "text": "This is not an option"
+      },
+      {
+        "intent": "REJECT",
+        "text": "Thank you,that is my dream job"
+      },
+      {
+        "intent": "REJECT",
+        "text": "We are going to verify this together"
+      },
+      {
+        "intent": "REJECT",
+        "text": "You are correct"
+      },
+      {
+        "intent": "REJECT",
+        "text": "Yes,i will join you"
+      },
+      {
+        "intent": "REJECT",
+        "text": "Yes,i will meet you tomorrow"
+      },
+      {
+        "intent": "REJECT",
+        "text": "Yes,i will take up your offer"
+      },
+      {
+        "intent": "REJECT",
+        "text": "Yes,i am accepting your offer"
+      },
+      {
+        "intent": "REJECT",
+        "text": "I do"
+      },
+      {
+        "intent": "REJECT",
+        "text": "I shall"
+      },
+      {
+        "intent": "REJECT",
+        "text": "I will definitely join you"
+      },
+      {
+        "intent": "REJECT",
+        "text": "You are absolutely right"
+      },
+      {
+        "intent": "REJECT",
+        "text": "I will participate in the event"
+      },
+      {
+        "intent": "REJECT",
+        "text": "I am okay with it"
+      },
+      {
+        "intent": "REJECT",
+        "text": "I am going to have a great time with you"
+      },
+      {
+        "intent": "REJECT",
+        "text": "I will be waiting for the time to work with you"
+      },
+      {
+        "intent": "REJECT",
+        "text": "We will do it together"
+      },
+      {
+        "intent": "REJECT",
+        "text": "We should do it together"
+      },
+      {
+        "intent": "REJECT",
+        "text": "This plan have to be implemented"
+      },
+      {
+        "intent": "REJECT",
+        "text": "I am accepting this job offer"
+      },
+      {
+        "intent": "REJECT",
+        "text": "Thanks for hiring me.I will try to keep"
+      },
+      {
+        "intent": "REJECT",
+        "text": "I will try to keep up your expectations"
+      },
+      {
+        "intent": "REJECT",
+        "text": "Okay sir.I am going to do it"
+      },
+      {
+        "intent": "REJECT",
+        "text": "Definitely,you can go further"
+      },
+      {
+        "intent": "REJECT",
+        "text": "I will definitely come with you"
+      },
+      {
+        "intent": "REJECT",
+        "text": "I will definitely follow you"
+      },
+      {
+        "intent": "REJECT",
+        "text": "Please proceed"
+      },
+      {
+        "intent": "REJECT",
+        "text": "I am interested in it"
+      },
+      {
+        "intent": "REJECT",
+        "text": "Approve"
+      },
+      {
+        "intent": "REJECT",
+        "text": "Nice, i liked it"
+      },
+      {
+        "intent": "REJECT",
+        "text": "Welcome"
+      },
+      {
+        "intent": "REJECT",
+        "text": "Go for"
+      },
+      {
+        "intent": "REJECT",
+        "text": "Allow"
+      },
+      {
+        "intent": "REJECT",
+        "text": "Bless"
+      },
+      {
+        "intent": "REJECT",
+        "text": "Let pass"
+      },
+      {
+        "intent": "REJECT",
+        "text": "License"
+      },
+      {
+        "intent": "REJECT",
+        "text": "Granted"
+      },
+      {
+        "intent": "REJECT",
+        "text": "Yup,you can."
+      },
+      {
+        "intent": "REJECT",
+        "text": "Conformed"
+      },
+      {
+        "intent": "REJECT",
+        "text": "Surely,we provde information in this requirement."
+      },
+      {
+        "intent": "REJECT",
+        "text": "Of course , you have to get cut off mark in exam."
+      },
+      {
+        "intent": "REJECT",
+        "text": "Truly"
+      },
+      {
+        "intent": "REJECT",
+        "text": "Actually"
+      },
+      {
+        "intent": "REJECT",
+        "text": "Extremly"
+      },
+      {
+        "intent": "REJECT",
+        "text": "Undeniably"
+      },
+      {
+        "intent": "REJECT",
+        "text": "Good ,nice job"
+      },
+      {
+        "intent": "REJECT",
+        "text": "For surely, you can do that"
+      },
+      {
+        "intent": "REJECT",
+        "text": "Nice, you can apply it"
+      },
+      {
+        "intent": "REJECT",
+        "text": "Good , go ahead"
+      },
+      {
+        "intent": "REJECT",
+        "text": "Yeah,sure"
+      },
+      {
+        "intent": "REJECT",
+        "text": "Yes,go on"
+      },
+      {
+        "intent": "REJECT",
+        "text": "Yes,sure"
+      },
+      {
+        "intent": "REJECT",
+        "text": "I am good with this go on"
+      },
+      {
+        "intent": "REJECT",
+        "text": "Thums up"
+      },
+      {
+        "intent": "REJECT",
+        "text": "Good go on"
+      },
+      {
+        "intent": "REJECT",
+        "text": "Exactly"
+      },
+      {
+        "intent": "REJECT",
+        "text": "You are awesome"
+      },
+      {
+        "intent": "REJECT",
+        "text": "You are best"
+      },
+      {
+        "intent": "REJECT",
+        "text": "You deserve it."
+      },
+      {
+        "intent": "REJECT",
+        "text": "You are unique."
+      },
+      {
+        "intent": "REJECT",
+        "text": "I appreciate it"
+      },
+      {
+        "intent": "REJECT",
+        "text": "You are great"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "My skills are python, c++"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "I know machinge learning"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "I want machine learning job"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "I need a job badly"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "Find data analyst job"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "Find data scientist job"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "Find machine learning job"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "Find data analysis job"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "I have one year experience in python"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "I know tableu"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "I know django"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "Find it jobs"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "Find python developer job"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "How much will i get paid"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "I want machine learning job only"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "Salary 10 lakhs for python developer 2 year experience"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "Find a php developer job"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "Find a laravel developer job"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "Find django developer job"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "Find vue developer job"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "Find react native developer job"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "Find buffalo developer job"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "Find dart developer job"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "Find flutter developer job"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "Jobs in software development"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "Jobs for android developer"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "Jobs for ios developer"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "Internship in c++"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "Internship in google analytics"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "Find civil service job"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "Find military jobs"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "Find fresher jobs"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "Civil engineer vacancies in bangalore"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "Find cooking job"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "Find manual tester job"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "Find selenium tester job"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "Find team lead jobs"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "Find non voice process jobs"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "Find bpo jobs"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "Find technical support jobs"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "Find sales jobs"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "Find business executive jobs"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "Find product manager jobs"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "I want to find a job for deep learning skills"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "I want to find a job for data analytics skills"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "I want to find a job for machine vision skills"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "Data analyst jobs in upcoming month"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "Data science jobs in pune"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "I want to find a job for ai"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "I want to find a job for artificial intelligence"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "Top jobs for freelancing programmer"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "Best job for data science enthusiast"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "Jobs in assam"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "Govt jobs in kolkata"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "I want to find a job for programming in .Net"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "How much do data scientists earn?"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "I want to find a job for programming in r"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "How to prepare for a job interview in google"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "I want to find a job for tableau skills"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "Is google recruiting in india this year"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "I want to find a job for business intelligence skills"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "I want to find a job for business analytics skills"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "I want to find a job for iot skills"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "I want to find a job for robotics skills"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "I have skills in python, what kind of job do you suggest?"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "List top jobs in fashion industry"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "How to crack ias"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "Can you help me find a job?"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "I wanted to get a job in data science field"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "How can you help me in finding a job"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "Will you help me find a job"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "Will you help me find a job of my choice"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "Help me find a job in kolkata"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "Is delhi a good place to find jobs"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "List available vancancies in top data science companies in bangalore"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "Top paying jobs in engineering"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "Jobs in data science"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "Is data analytics a good job"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "Jobs in big data"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "Salaries in big data"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "Do big data have scope in future"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "Is machine learning a good job"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "Should i learn java to land big data job"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "Is python skill necessary to land job in ai industry"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "Top paying companies in web development"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "Top data science start ups in ahmedabad"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "Government job openings in it field"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "Help me find a job"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "I want a search in computer science field"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "I am good at python, help me find a job"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "Find the best job in ahmedabad for a computer engineer"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "I completed my masters and find me a job of that level in cs field in mumbai"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "Find a job in ec in delhi"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "Can you find a job for a data scientist"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "When should i start searching for jobs"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "Which is the best site for job searching"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "What are the various job options for a data analyst"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "How can i prepare for a job interview"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "Find me a job for a ca"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "Which are the best cities for a job in ml"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "Python companies in ahmedabad for a job"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "Find me a job in web development"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "I want a job of data entry in hyderabad"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "Find me a job of a technician in chennai"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "What are the job options for a machine learning enthusiast?"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "I specialize in cyber security. List me some jobs"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "List few jobs in chemical field"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "I want an internship in cs field"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "Find me a 2 month internship in it companies in mumbai"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "Top paying jobs in mechatronics field"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "I want a job in government organizations. Show me the procedure"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "Find me government job openings in it field"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "Find me a bank job in ahmedabad"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "Help me find work from home jobs in cs field"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "Top jobs for a freelancer photographer"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "Find me a job of a professional photographer"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "List few jobs for mba"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "Top jobs in mba in delhi"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "Find me a job for an architect"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "List top jobs in architecture in mumbai"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "The top paying companies in cs field in delhi"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "The best job for a teacher"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "List some jobs for a professor"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "How do i get a job"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "Find me job options for a web developer in ahmedabad"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "How to get hired in one month"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "Job fairs in upcoming month"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "How to prepare for a job interview for a data analyst"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "How to prepare for personal interviews for mba job"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "How to pass the aptitude exams conducted in interviews for it jobs"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "How to impress the person taking my interview"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "How to build confidence before going to a job interview"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "List of things to carry for a job interview"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "Find me a job of a clerk in mumbai"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "List of top companies hiring in automobile industry"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "Help me crack a government job interview"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "Help me find a job in statistics field"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "Help me find a job in law firm"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "Find me a job in cs field in a startup company"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "What career options?"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "What all career options i have?"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "Which programming language should i learn?"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "Is c++, python enough?"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "How to become a data analyst?"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "How to become a data scientist?"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "What all skills needed to become a data scientist?"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "What all skills needed to become a data analyst?"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "What all skills needed to become a laravel developer?"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "What all skills needed to become a product manager?"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "What all skills needed to become a team lead?"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "How to start a startup?"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "Which technology is trending?"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "What language is trending?"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "What are the upcoming languages?"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "How to become an business associate?"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "How to become a business analyst?"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "How to start a clinic?"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "What are all the career available after b.E. In cse?"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "What are all the career available after b.Pharma?"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "What are the career available after b.Com?"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "What are all the career available after bsc. Nursing?"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "Can you help me to find an opportunity in computer science?"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "What are all teh career available after msc. Nursing?"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "What is the salary of the data scientist?"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "What is the salary of the data analyst?"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "What is the salary of the business analyst?"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "Is there scope in arts?"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "Best site to study?"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "Best site for motivation?"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "Is it worth to lean python?"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "How can i become a good programmer?"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "How can i become a good manager?"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "How can i become a good product manager?"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "Should i take science or arts to become data scientist?"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "Which course should i take to become a data scientist?"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "Is there any scope to become mla?"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "How to get job in google?"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "How to get job in microsoft?"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "Which is better django or laravel?"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "Which has more scope python or php?"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "How to learn clould computing?"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "Best course for cloud computing?"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "Best course for data scientist?"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "Best course for data analyst?"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "Best course for python developer?"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "Best course for vue developer?"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "Career in army?"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "Career in navy?"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "Carrer in air force?"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "What are the vacancies available for java developer ?"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "How can i apply for that job ?"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "What are the qualifications required for data science ?"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "How much experience is required ?"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "Can you find the job in another location ?"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "Can i apply for this job ?"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "What is the eligibility ?"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "What is the package offering for this job ?"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "Am i eligible for the job ?"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "How about the job in bangalore ?"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "Is there any job for java developer ?"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "Is there any job for android app developer ?"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "Can i apply for the senior data analyist job ?"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "I want to find a job,can you find it for me"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "I need a job badly,can you find it for me"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "I want to find an electrical core job"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "I want to find a core job in mechanical background"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "Find a data analyst job"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "My skills are auto cad,ansys, matlab which is the best job should i go for?"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "I have 3 years experience as an accountant.Can you find any accountant job for me?"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "I have 3 years experience as a web developer.Can you find any web development job for me?"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "I have 3 years experience as an android app developer.Can you find any app development job for me?"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "Find computer science jobs in metropolitan cities"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "Find core jobs in metropolitan cities"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "Find core jobs"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "Find core jobs in india"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "Find computer science jobs in india"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "Find jobs in kolkata"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "Find a data scientist job"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "Find an ai scientist job"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "Find a government job"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "Find a central government job"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "Find a state government job"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "I have completed my btech in computer science stream.Find suitable jobs for me"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "Find a work from home internship"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "Job in web designing"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "Job in android development"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "Job in software development"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "Internship in management"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "Architecture internship"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "Civil engineering jobs"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "Data analyst jobs"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "Cyber security jobs"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "Jobs in government schools"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "Jobs in public sector banks"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "Ssc job notification"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "Jobs in service sector"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "Doctor vacancies in hyderabad"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "Civil surgeon jobs"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "Fresher jobs"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "I need job"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "I did puc, i need job"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "I did sslc/degree/double degree"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "I did be/b.Com/cse/b.Tech/mba/m.Tech/diploma etc"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "I want job in cse /ec/me/civil field"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "I need 10lakh package"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "I need 15000rs salary job"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "I need job in bangalore/hubli/pune/kolkata"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "I need job in ai/ml/dl field"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "I need hr job"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "My skills are java,python, search me a job"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "I want 9-5 timing job"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "My skills are python, c++"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "I know machinge learning"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "I want machine learning job"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "I need a job badly"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "Find data analyst job"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "Find data scientist job"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "Find machine learning job"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "Find data analysis job"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "I have one year experience in python"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "I know tableu"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "I know django"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "Find it jobs"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "Find python developer job"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "How much will i get paid"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "I want machine learning job only"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "Salary 10 lakhs for python developer 2 year experience"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "Find a php developer job"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "Find a laravel developer job"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "Find django developer job"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "Find vue developer job"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "Find react native developer job"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "Find buffalo developer job"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "Find dart developer job"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "Find flutter developer job"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "Jobs in software development"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "Jobs for android developer"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "Jobs for ios developer"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "Internship in c++"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "Internship in google analytics"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "Find civil service job"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "Find military jobs"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "Find fresher jobs"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "Civil engineer vacancies in bangalore"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "Find cooking job"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "Find manual tester job"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "Find selenium tester job"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "Find team lead jobs"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "Find non voice process jobs"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "Find bpo jobs"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "Find technical support jobs"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "Find sales jobs"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "Find business executive jobs"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "Find product manager jobs"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "I want to find a job for deep learning skills"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "I want to find a job for data analytics skills"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "I want to find a job for machine vision skills"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "Data analyst jobs in upcoming month"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "Data science jobs in pune"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "I want to find a job for ai"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "I want to find a job for artificial intelligence"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "Top jobs for freelancing programmer"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "Best job for data science enthusiast"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "Jobs in assam"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "Govt jobs in kolkata"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "I want to find a job for programming in .Net"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "How much do data scientists earn?"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "I want to find a job for programming in r"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "How to prepare for a job interview in google"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "I want to find a job for tableau skills"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "Is google recruiting in india this year"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "I want to find a job for business intelligence skills"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "I want to find a job for business analytics skills"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "I want to find a job for iot skills"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "I want to find a job for robotics skills"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "I have skills in python, what kind of job do you suggest?"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "List top jobs in fashion industry"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "How to crack ias"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "Can you help me find a job?"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "I wanted to get a job in data science field"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "How can you help me in finding a job"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "Will you help me find a job"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "Will you help me find a job of my choice"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "Help me find a job in kolkata"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "Is delhi a good place to find jobs"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "List available vancancies in top data science companies in bangalore"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "Top paying jobs in engineering"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "Jobs in data science"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "Is data analytics a good job"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "Jobs in big data"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "Salaries in big data"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "Do big data have scope in future"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "Is machine learning a good job"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "Should i learn java to land big data job"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "Is python skill necessary to land job in ai industry"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "Top paying companies in web development"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "Top data science start ups in ahmedabad"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "Government job openings in it field"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "Help me find a job"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "I want a search in computer science field"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "I am good at python, help me find a job"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "Find the best job in ahmedabad for a computer engineer"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "I completed my masters and find me a job of that level in cs field in mumbai"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "Find a job in ec in delhi"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "Can you find a job for a data scientist"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "When should i start searching for jobs"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "Which is the best site for job searching"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "What are the various job options for a data analyst"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "How can i prepare for a job interview"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "Find me a job for a ca"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "Which are the best cities for a job in ml"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "Python companies in ahmedabad for a job"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "Find me a job in web development"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "I want a job of data entry in hyderabad"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "Find me a job of a technician in chennai"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "What are the job options for a machine learning enthusiast?"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "I specialize in cyber security. List me some jobs"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "List few jobs in chemical field"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "I want an internship in cs field"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "Find me a 2 month internship in it companies in mumbai"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "Top paying jobs in mechatronics field"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "I want a job in government organizations. Show me the procedure"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "Find me government job openings in it field"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "Find me a bank job in ahmedabad"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "Help me find work from home jobs in cs field"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "Top jobs for a freelancer photographer"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "Find me a job of a professional photographer"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "List few jobs for mba"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "Top jobs in mba in delhi"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "Find me a job for an architect"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "List top jobs in architecture in mumbai"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "The top paying companies in cs field in delhi"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "The best job for a teacher"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "List some jobs for a professor"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "How do i get a job"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "Find me job options for a web developer in ahmedabad"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "How to get hired in one month"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "Job fairs in upcoming month"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "How to prepare for a job interview for a data analyst"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "How to prepare for personal interviews for mba job"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "How to pass the aptitude exams conducted in interviews for it jobs"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "How to impress the person taking my interview"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "How to build confidence before going to a job interview"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "List of things to carry for a job interview"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "Find me a job of a clerk in mumbai"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "List of top companies hiring in automobile industry"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "Help me crack a government job interview"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "Help me find a job in statistics field"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "Help me find a job in law firm"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "Find me a job in cs field in a startup company"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "What career options?"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "What all career options i have?"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "Which programming language should i learn?"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "Is c++, python enough?"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "How to become a data analyst?"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "How to become a data scientist?"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "What all skills needed to become a data scientist?"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "What all skills needed to become a data analyst?"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "What all skills needed to become a laravel developer?"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "What all skills needed to become a product manager?"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "What all skills needed to become a team lead?"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "How to start a startup?"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "Which technology is trending?"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "What language is trending?"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "What are the upcoming languages?"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "How to become an business associate?"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "How to become a business analyst?"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "How to start a clinic?"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "What are all the career available after b.E. In cse?"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "What are all the career available after b.Pharma?"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "What are the career available after b.Com?"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "What are all the career available after bsc. Nursing?"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "Can you help me to find an opportunity in computer science?"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "What are all teh career available after msc. Nursing?"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "What is the salary of the data scientist?"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "What is the salary of the data analyst?"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "What is the salary of the business analyst?"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "Is there scope in arts?"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "Best site to study?"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "Best site for motivation?"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "Is it worth to lean python?"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "How can i become a good programmer?"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "How can i become a good manager?"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "How can i become a good product manager?"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "Should i take science or arts to become data scientist?"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "Which course should i take to become a data scientist?"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "Is there any scope to become mla?"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "How to get job in google?"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "How to get job in microsoft?"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "Which is better django or laravel?"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "Which has more scope python or php?"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "How to learn clould computing?"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "Best course for cloud computing?"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "Best course for data scientist?"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "Best course for data analyst?"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "Best course for python developer?"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "Best course for vue developer?"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "Career in army?"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "Career in navy?"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "Carrer in air force?"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "What are the vacancies available for java developer ?"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "How can i apply for that job ?"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "What are the qualifications required for data science ?"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "How much experience is required ?"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "Can you find the job in another location ?"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "Can i apply for this job ?"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "What is the eligibility ?"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "What is the package offering for this job ?"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "Am i eligible for the job ?"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "How about the job in bangalore ?"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "Is there any job for java developer ?"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "Is there any job for android app developer ?"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "Can i apply for the senior data analyist job ?"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "I want to find a job,can you find it for me"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "I need a job badly,can you find it for me"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "I want to find an electrical core job"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "I want to find a core job in mechanical background"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "Find a data analyst job"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "My skills are auto cad,ansys, matlab which is the best job should i go for?"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "I have 3 years experience as an accountant.Can you find any accountant job for me?"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "I have 3 years experience as a web developer.Can you find any web development job for me?"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "I have 3 years experience as an android app developer.Can you find any app development job for me?"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "Find computer science jobs in metropolitan cities"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "Find core jobs in metropolitan cities"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "Find core jobs"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "Find core jobs in india"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "Find computer science jobs in india"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "Find jobs in kolkata"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "Find a data scientist job"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "Find an ai scientist job"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "Find a government job"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "Find a central government job"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "Find a state government job"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "I have completed my btech in computer science stream.Find suitable jobs for me"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "Find a work from home internship"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "Job in web designing"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "Job in android development"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "Job in software development"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "Internship in management"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "Architecture internship"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "Civil engineering jobs"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "Data analyst jobs"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "Cyber security jobs"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "Jobs in government schools"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "Jobs in public sector banks"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "Ssc job notification"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "Jobs in service sector"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "Doctor vacancies in hyderabad"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "Civil surgeon jobs"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "Fresher jobs"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "I need job"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "I did puc, i need job"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "I did sslc/degree/double degree"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "I did be/b.Com/cse/b.Tech/mba/m.Tech/diploma etc"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "I want job in cse/ec/me/civil field"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "I need 10lakh package"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "I need 15000rs salary job"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "I need job in bangalore/hubli/pune/kolkata"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "I need job in ai/ml/dl field"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "I need hr job"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "My skills are java,python, search me a job"
+      },
+      {
+        "intent": "JOB_SEARCH",
+        "text": "I want 9-5 timing job"
+      },
+      {
+        "intent": "CAREER",
+        "text": "Can you suggest the career options after bba"
+      },
+      {
+        "intent": "CAREER",
+        "text": "Suggest some career options after phd in ai"
+      },
+      {
+        "intent": "CAREER",
+        "text": "Suggest some career options after phd in ml"
+      },
+      {
+        "intent": "CAREER",
+        "text": "Suggest some career options after ph in signal processing"
+      },
+      {
+        "intent": "CAREER",
+        "text": "Find an internship in ml field"
+      },
+      {
+        "intent": "CAREER",
+        "text": "Tell me job options in delhi for a btech graduate"
+      },
+      {
+        "intent": "CAREER",
+        "text": "Find some jobs in banglore for a btech graduate"
+      },
+      {
+        "intent": "CAREER",
+        "text": "Some career options after 12th"
+      },
+      {
+        "intent": "CAREER",
+        "text": "Suggest some career options in hyderabad for a btech graduate"
+      },
+      {
+        "intent": "CAREER",
+        "text": "Find me an internship in electronics field"
+      },
+      {
+        "intent": "CAREER",
+        "text": "I am looking for data analyst openings suggest some"
+      },
+      {
+        "intent": "CAREER",
+        "text": "Suggest some electronics based jobs"
+      },
+      {
+        "intent": "CAREER",
+        "text": "I am an computer science btech graduate find some jobs for me"
+      },
+      {
+        "intent": "CAREER",
+        "text": "Suggest some job for civil engineer"
+      },
+      {
+        "intent": "CAREER",
+        "text": "Find some jobs for electrical engineer"
+      },
+      {
+        "intent": "CAREER",
+        "text": "I am looking for full stack development openings"
+      },
+      {
+        "intent": "CAREER",
+        "text": "Can you find some jobs in software development"
+      },
+      {
+        "intent": "CAREER",
+        "text": "Is there any openings in microsoft"
+      },
+      {
+        "intent": "CAREER",
+        "text": "I am an automation engineer find some jobs for me"
+      },
+      {
+        "intent": "CAREER",
+        "text": "Find some jobs in ai field for a mtech in ai"
+      },
+      {
+        "intent": "CAREER",
+        "text": "Find a job for me in an it comapny"
+      },
+      {
+        "intent": "CAREER",
+        "text": "I am a mechanical btech graduate and looking for a job in it suggest me the way"
+      },
+      {
+        "intent": "CAREER",
+        "text": "Job opportunity in cloud computing"
+      },
+      {
+        "intent": "CAREER",
+        "text": "Find me some jobs in cyber security"
+      },
+      {
+        "intent": "CAREER",
+        "text": "What are the technical skills required to enter into ai field"
+      },
+      {
+        "intent": "CAREER",
+        "text": "What are the career options available for electronics and communication engineering"
+      },
+      {
+        "intent": "CAREER",
+        "text": "Which career option is best in ai, machine learning and datascience"
+      },
+      {
+        "intent": "CAREER",
+        "text": "What are the companies offering physical design jobs"
+      },
+      {
+        "intent": "CAREER",
+        "text": "What are the companies offering analog layout design jobs"
+      },
+      {
+        "intent": "CAREER",
+        "text": "Which state in india provide more jobs for data scientist"
+      },
+      {
+        "intent": "CAREER",
+        "text": "What is the minimum salary we can expect for two year experience as data scientist"
+      },
+      {
+        "intent": "CAREER",
+        "text": "What is the minimum salary we can expect for two year experience in vlsi field"
+      },
+      {
+        "intent": "CAREER",
+        "text": "What are the companies offering devops engineer jobs"
+      },
+      {
+        "intent": "CAREER",
+        "text": "What is the salary for devops engineer"
+      },
+      {
+        "intent": "CAREER",
+        "text": "What are the tasks performed by devops engineer"
+      },
+      {
+        "intent": "CAREER",
+        "text": "What are the tasks performed by app developer"
+      },
+      {
+        "intent": "CAREER",
+        "text": "Do java have future or python"
+      },
+      {
+        "intent": "CAREER",
+        "text": "What are the basic subjects required to learn ai"
+      },
+      {
+        "intent": "CAREER",
+        "text": "What is the difference between big data and data science"
+      },
+      {
+        "intent": "CAREER",
+        "text": "What are the tasks performed by data analyst"
+      },
+      {
+        "intent": "CAREER",
+        "text": "What are the companies offering embedded jobs"
+      },
+      {
+        "intent": "CAREER",
+        "text": "What is the salary of machine learning engineer"
+      },
+      {
+        "intent": "CAREER",
+        "text": "What is the difference between data analyst and data scientist"
+      },
+      {
+        "intent": "CAREER",
+        "text": "What are the companies offering reinforcement learning jobs"
+      },
+      {
+        "intent": "CAREER",
+        "text": "What is the salary for reinforcement learning job role"
+      },
+      {
+        "intent": "CAREER",
+        "text": "Career options for sslc students"
+      },
+      {
+        "intent": "CAREER",
+        "text": "Career options for puc students"
+      },
+      {
+        "intent": "CAREER",
+        "text": "Career options for diploma student"
+      },
+      {
+        "intent": "CAREER",
+        "text": "Career options for ca students"
+      },
+      {
+        "intent": "CAREER",
+        "text": "Career options for be students"
+      },
+      {
+        "intent": "CAREER",
+        "text": "Mbbs or engineering?"
+      },
+      {
+        "intent": "CAREER",
+        "text": "Science or commerce?"
+      },
+      {
+        "intent": "CAREER",
+        "text": "Ca or medical?"
+      },
+      {
+        "intent": "CAREER",
+        "text": "Ca or engineering?"
+      },
+      {
+        "intent": "CAREER",
+        "text": "Science or arts?"
+      },
+      {
+        "intent": "CAREER",
+        "text": "Java or python in future?"
+      },
+      {
+        "intent": "CAREER",
+        "text": "Career options for btech graduate"
+      },
+      {
+        "intent": "CAREER",
+        "text": "Career options for ssc student"
+      },
+      {
+        "intent": "CAREER",
+        "text": "What are the technical skills required to enter into ai,ml field"
+      },
+      {
+        "intent": "CAREER",
+        "text": "Mpc or bipc?"
+      },
+      {
+        "intent": "CAREER",
+        "text": "Ca or enineering?"
+      },
+      {
+        "intent": "CAREER",
+        "text": "Which is the booming technology in it indusry?"
+      },
+      {
+        "intent": "CAREER",
+        "text": "What career options i have after 12th?"
+      },
+      {
+        "intent": "CAREER",
+        "text": "What shall i do after sslc"
+      },
+      {
+        "intent": "CAREER",
+        "text": "What shall i do after puc"
+      },
+      {
+        "intent": "CAREER",
+        "text": "I did bsc, what shall i learn to get a good job"
+      },
+      {
+        "intent": "CAREER",
+        "text": "Python is helpful for my job?"
+      },
+      {
+        "intent": "CAREER",
+        "text": "I love coding, but i did mba, what shall i do"
+      },
+      {
+        "intent": "CAREER",
+        "text": "I love marketing but i did computer science"
+      },
+      {
+        "intent": "CAREER",
+        "text": "How to get a job"
+      },
+      {
+        "intent": "CAREER",
+        "text": "What shall i study to get a job"
+      },
+      {
+        "intent": "CAREER",
+        "text": "What shall i make my child study to get him a job"
+      },
+      {
+        "intent": "CAREER",
+        "text": "Does engineering have value?"
+      },
+      {
+        "intent": "CAREER",
+        "text": "Sciene or commerce?"
+      },
+      {
+        "intent": "CAREER",
+        "text": "Be or mbbs?"
+      },
+      {
+        "intent": "CAREER",
+        "text": "Which has more value java or python to get a job"
+      },
+      {
+        "intent": "CAREER",
+        "text": "How can i join army?"
+      },
+      {
+        "intent": "CAREER",
+        "text": "How can i become police"
+      },
+      {
+        "intent": "CAREER",
+        "text": "How can i start ai field"
+      },
+      {
+        "intent": "CAREER",
+        "text": "Which is good field for me,i cant walk"
+      },
+      {
+        "intent": "CAREER",
+        "text": "Which is good field for me,i am blind"
+      },
+      {
+        "intent": "CAREER",
+        "text": "Which field has more scope?"
+      },
+      {
+        "intent": "CAREER",
+        "text": "Which filed has more value?"
+      },
+      {
+        "intent": "CAREER",
+        "text": "What's an ideal job?"
+      },
+      {
+        "intent": "CAREER",
+        "text": "Best job in india"
+      },
+      {
+        "intent": "CAREER",
+        "text": "How to job in canada"
+      },
+      {
+        "intent": "CAREER",
+        "text": "How to become ceo of google?"
+      },
+      {
+        "intent": "CAREER",
+        "text": "How to become professional hacker?"
+      },
+      {
+        "intent": "CAREER",
+        "text": "Which language to study to become game developer?"
+      },
+      {
+        "intent": "CAREER",
+        "text": "Best online site to study?"
+      },
+      {
+        "intent": "CAREER",
+        "text": "How to become web developer?"
+      },
+      {
+        "intent": "CAREER",
+        "text": "What to study after engineering?"
+      },
+      {
+        "intent": "CAREER",
+        "text": "Career in politics?"
+      },
+      {
+        "intent": "CAREER",
+        "text": "What to do study to become mla"
+      },
+      {
+        "intent": "CAREER",
+        "text": "Is it worth to study python?"
+      },
+      {
+        "intent": "CAREER",
+        "text": "Can medical student can do coding?"
+      },
+      {
+        "intent": "CAREER",
+        "text": "How can i become programmer?"
+      },
+      {
+        "intent": "CAREER",
+        "text": "How can i become bank manager?"
+      },
+      {
+        "intent": "CAREER",
+        "text": "Should i take science or arts to become ias?"
+      },
+      {
+        "intent": "CAREER",
+        "text": "Best nanodegree?"
+      },
+      {
+        "intent": "CAREER",
+        "text": "Does nanodegree help to get job?"
+      },
+      {
+        "intent": "CAREER",
+        "text": "Which course should i do to become data scientist"
+      },
+      {
+        "intent": "CAREER",
+        "text": "Steps to study artifical intelligence"
+      },
+      {
+        "intent": "CAREER",
+        "text": "Which field is better machine learning or deep learning?"
+      },
+      {
+        "intent": "CAREER",
+        "text": "How is future for data scientist"
+      },
+      {
+        "intent": "CAREER",
+        "text": "How is future for cloud computing?"
+      },
+      {
+        "intent": "CAREER",
+        "text": "Which is better cloud, azure or aws?"
+      },
+      {
+        "intent": "CAREER",
+        "text": "How to get job in google"
+      },
+      {
+        "intent": "CAREER",
+        "text": "Steps to hack whatsapp"
+      },
+      {
+        "intent": "CAREER",
+        "text": "Career in hacking?"
+      },
+      {
+        "intent": "CAREER",
+        "text": "What are the upcoming career options for electronics engineer?"
+      },
+      {
+        "intent": "CAREER",
+        "text": "What are the upcoming career options for electrical engineer?"
+      },
+      {
+        "intent": "CAREER",
+        "text": "What are the upcoming career options for computer science students?"
+      },
+      {
+        "intent": "CAREER",
+        "text": "Which programming language should i learn for machine learning"
+      },
+      {
+        "intent": "CAREER",
+        "text": "How to start a business?"
+      },
+      {
+        "intent": "CAREER",
+        "text": "What are the upcoming career options for mechanincal engineer?"
+      },
+      {
+        "intent": "CAREER",
+        "text": "How to start a private medical clinic?"
+      },
+      {
+        "intent": "CAREER",
+        "text": "How to start a medical clinic?"
+      },
+      {
+        "intent": "CAREER",
+        "text": "How to become an entreprenuer?"
+      },
+      {
+        "intent": "CAREER",
+        "text": "I want to start my career freshly."
+      },
+      {
+        "intent": "CAREER",
+        "text": "Career options for an mba student"
+      },
+      {
+        "intent": "CAREER",
+        "text": "Best programming language for beginners"
+      },
+      {
+        "intent": "CAREER",
+        "text": "Btech or be.What's the difference?"
+      },
+      {
+        "intent": "CAREER",
+        "text": "Btech or bsc.What's the difference?"
+      },
+      {
+        "intent": "CAREER",
+        "text": "Is mtech required for better career options?"
+      },
+      {
+        "intent": "CAREER",
+        "text": "Best universities in usa for pursuing ms"
+      },
+      {
+        "intent": "CAREER",
+        "text": "Best universities for pursuing ms"
+      },
+      {
+        "intent": "CAREER",
+        "text": "Mtech or ms.Which is better"
+      },
+      {
+        "intent": "CAREER",
+        "text": "Languages required for graphics designing"
+      },
+      {
+        "intent": "CAREER",
+        "text": "Languages required for web designing"
+      },
+      {
+        "intent": "CAREER",
+        "text": "Web designing or app development.Which has better scope?"
+      },
+      {
+        "intent": "CAREER",
+        "text": "What is the best department for pursuing btech?"
+      },
+      {
+        "intent": "CAREER",
+        "text": "Best certified courses for computer science students"
+      },
+      {
+        "intent": "CAREER",
+        "text": "Scope of coding in mechanical engineering"
+      },
+      {
+        "intent": "CAREER",
+        "text": "Scope of artificial intelligence in medicine and health care"
+      },
+      {
+        "intent": "CAREER",
+        "text": "Best universities for mtech in india"
+      },
+      {
+        "intent": "CAREER",
+        "text": "Best universities for btech in india"
+      },
+      {
+        "intent": "CAREER",
+        "text": "Highest paying careers"
+      },
+      {
+        "intent": "CAREER",
+        "text": "Career options after 12th class"
+      },
+      {
+        "intent": "CAREER",
+        "text": "Best universities for llb course"
+      },
+      {
+        "intent": "CAREER",
+        "text": "Best law institutions in india"
+      },
+      {
+        "intent": "CAREER",
+        "text": "Java or python.Which is best programming language for a beginner"
+      },
+      {
+        "intent": "CAREER",
+        "text": "Difference between data scientist and data analytics"
+      },
+      {
+        "intent": "CAREER",
+        "text": "Tcs or infosys job.Which should i prefer"
+      },
+      {
+        "intent": "CAREER",
+        "text": "What careers make a lot of money?"
+      },
+      {
+        "intent": "CAREER",
+        "text": "Careers that will have demand in future"
+      },
+      {
+        "intent": "CAREER",
+        "text": "Career options in automation"
+      },
+      {
+        "intent": "CAREER",
+        "text": "Career options in logistics,supply chain"
+      },
+      {
+        "intent": "CAREER",
+        "text": "Career options in marketing"
+      },
+      {
+        "intent": "CAREER",
+        "text": "Career options in forensic science"
+      },
+      {
+        "intent": "CAREER",
+        "text": "Hotel management or business management.What should i opt"
+      },
+      {
+        "intent": "CAREER",
+        "text": "Is there any requirement for web developer ?"
+      },
+      {
+        "intent": "CAREER",
+        "text": "What are the job openings ?"
+      },
+      {
+        "intent": "CAREER",
+        "text": "What are the job catogories ?"
+      },
+      {
+        "intent": "CAREER",
+        "text": "What is trending in cs field"
+      },
+      {
+        "intent": "CAREER",
+        "text": "Which career has the highest pay"
+      },
+      {
+        "intent": "CAREER",
+        "text": "Which career path should i choose in law, civil or criminal"
+      },
+      {
+        "intent": "CAREER",
+        "text": "What are the buzzwords in it industry"
+      },
+      {
+        "intent": "CAREER",
+        "text": "What career path is most available in delhi"
+      },
+      {
+        "intent": "CAREER",
+        "text": "Which career can land me in a 6 digit salary"
+      },
+      {
+        "intent": "CAREER",
+        "text": "In which career should i move forward in cs, testing or development"
+      },
+      {
+        "intent": "CAREER",
+        "text": "Which career is more suitable in computer engineering, hardware or software"
+      },
+      {
+        "intent": "CAREER",
+        "text": "What are the job trends in aviation"
+      },
+      {
+        "intent": "CAREER",
+        "text": "What are the career options after bba"
+      },
+      {
+        "intent": "CAREER",
+        "text": "What are the career options after phd"
+      },
+      {
+        "intent": "CAREER",
+        "text": "What are the career options after mbbs"
+      },
+      {
+        "intent": "CAREER",
+        "text": "What are the career options after mba"
+      },
+      {
+        "intent": "CAREER",
+        "text": "Which career is more suitable after mba, starting a company or a job"
+      },
+      {
+        "intent": "CAREER",
+        "text": "What pays more in law career, practise or job in law firm"
+      },
+      {
+        "intent": "CAREER",
+        "text": "What are the different streams in arts degree"
+      },
+      {
+        "intent": "CAREER",
+        "text": "Which career is best after bcom"
+      },
+      {
+        "intent": "CAREER",
+        "text": "Career options in ml field"
+      },
+      {
+        "intent": "CAREER",
+        "text": "Which career will get me a job : python or java"
+      },
+      {
+        "intent": "CAREER",
+        "text": "Which career is more advantageous mechatronics or robotics"
+      },
+      {
+        "intent": "CAREER",
+        "text": "Which career path is most available in mumbai"
+      },
+      {
+        "intent": "CAREER",
+        "text": "Career in military services"
+      },
+      {
+        "intent": "CAREER",
+        "text": "How to get started with a career in robotics"
+      },
+      {
+        "intent": "CAREER",
+        "text": "How to get started to pursue a career in photography"
+      },
+      {
+        "intent": "CAREER",
+        "text": "How to get started with a career in arts"
+      },
+      {
+        "intent": "CAREER",
+        "text": "How to get started with a career in engineering"
+      },
+      {
+        "intent": "CAREER",
+        "text": "How to get started with a career in pharmacy"
+      },
+      {
+        "intent": "CAREER",
+        "text": "How to get started with a career in mechanical engineering"
+      },
+      {
+        "intent": "CAREER",
+        "text": "How to get started with a career in accounts"
+      },
+      {
+        "intent": "CAREER",
+        "text": "How to get started with a career in medical"
+      },
+      {
+        "intent": "CAREER",
+        "text": "What is the best career line in usa"
+      },
+      {
+        "intent": "CAREER",
+        "text": "What is the best engineering course to pursue as a career in australia"
+      },
+      {
+        "intent": "CAREER",
+        "text": "Which career options are available as a software engineer in canada"
+      },
+      {
+        "intent": "CAREER",
+        "text": "What career can i pursue after mscit"
+      },
+      {
+        "intent": "CAREER",
+        "text": "What career options are open for me after 12th"
+      },
+      {
+        "intent": "CAREER",
+        "text": "Which career line to opt after 10th : science or commerce"
+      },
+      {
+        "intent": "CAREER",
+        "text": "What are the best career options for a graphic designer"
+      },
+      {
+        "intent": "CAREER",
+        "text": "How to boost up my career after bba"
+      },
+      {
+        "intent": "CAREER",
+        "text": "How to promote my career in hotel management?"
+      },
+      {
+        "intent": "CAREER",
+        "text": "Which line is preferable for a white collar job career"
+      },
+      {
+        "intent": "CAREER",
+        "text": "How to take my career one step forward"
+      },
+      {
+        "intent": "CAREER",
+        "text": "How to learn new technologies to boost up my career"
+      },
+      {
+        "intent": "CAREER",
+        "text": "What career option can i have after doing bachelor of arts?"
+      },
+      {
+        "intent": "CAREER",
+        "text": "What options i will have after bachelor of commerce?"
+      },
+      {
+        "intent": "CAREER",
+        "text": "What career options will i get after bachelor of hotel management?"
+      },
+      {
+        "intent": "CAREER",
+        "text": "What are the career options for fresher?"
+      },
+      {
+        "intent": "CAREER",
+        "text": "What are career options for me after learning java?"
+      },
+      {
+        "intent": "CAREER",
+        "text": "Which career path should i choose to get highest pay?"
+      },
+      {
+        "intent": "CAREER",
+        "text": "What are the career options after doing masters in telecommunication?"
+      },
+      {
+        "intent": "CAREER",
+        "text": "Which career should i choose: big data or data science?"
+      },
+      {
+        "intent": "CAREER",
+        "text": "Career to become a teacher?"
+      },
+      {
+        "intent": "CAREER",
+        "text": "Which course is best to become an english teacher?"
+      },
+      {
+        "intent": "STUDY",
+        "text": "I want to learn c programming"
+      },
+      {
+        "intent": "STUDY",
+        "text": "I want to learn angular js"
+      },
+      {
+        "intent": "STUDY",
+        "text": "I want to learn python"
+      },
+      {
+        "intent": "STUDY",
+        "text": "I want to learn android development"
+      },
+      {
+        "intent": "STUDY",
+        "text": "I want to learn ethical hacking"
+      },
+      {
+        "intent": "STUDY",
+        "text": "I want to learn nlp"
+      },
+      {
+        "intent": "STUDY",
+        "text": "I want to learn to build chatbot"
+      },
+      {
+        "intent": "STUDY",
+        "text": "I want to learn bootstrap"
+      },
+      {
+        "intent": "STUDY",
+        "text": "I want to learn css"
+      },
+      {
+        "intent": "STUDY",
+        "text": "I want to learn jquery"
+      },
+      {
+        "intent": "STUDY",
+        "text": "I want to learn microsoft powerpoint"
+      },
+      {
+        "intent": "STUDY",
+        "text": "I want to learn microsoft word"
+      },
+      {
+        "intent": "STUDY",
+        "text": "I want to learn database management"
+      },
+      {
+        "intent": "STUDY",
+        "text": "I want to learn verilog"
+      },
+      {
+        "intent": "STUDY",
+        "text": "I am looking for scala"
+      },
+      {
+        "intent": "STUDY",
+        "text": "I am looking for c++"
+      },
+      {
+        "intent": "STUDY",
+        "text": "I am looking for c"
+      },
+      {
+        "intent": "STUDY",
+        "text": "I am looking for .Net"
+      },
+      {
+        "intent": "STUDY",
+        "text": "I am looking for computer vision"
+      },
+      {
+        "intent": "STUDY",
+        "text": "I am looking for nlp"
+      },
+      {
+        "intent": "STUDY",
+        "text": "I am looking for dbms"
+      },
+      {
+        "intent": "STUDY",
+        "text": "I am looking for data warehousing"
+      },
+      {
+        "intent": "STUDY",
+        "text": "I want to learn stock markets"
+      },
+      {
+        "intent": "STUDY",
+        "text": "I want to learn mutual funs"
+      },
+      {
+        "intent": "STUDY",
+        "text": "I want to learn taxation"
+      },
+      {
+        "intent": "STUDY",
+        "text": "I want to learn data visualization"
+      },
+      {
+        "intent": "STUDY",
+        "text": "I want to learn building chatbots"
+      },
+      {
+        "intent": "STUDY",
+        "text": "I want to learn tableau"
+      },
+      {
+        "intent": "STUDY",
+        "text": "I want to learn power bi"
+      },
+      {
+        "intent": "STUDY",
+        "text": "I want to learn sas"
+      },
+      {
+        "intent": "STUDY",
+        "text": "I want to learn splunk"
+      },
+      {
+        "intent": "STUDY",
+        "text": "I want to learn mysql"
+      },
+      {
+        "intent": "STUDY",
+        "text": "I want to learn oracle sql"
+      },
+      {
+        "intent": "STUDY",
+        "text": "I want to learn system programming"
+      },
+      {
+        "intent": "STUDY",
+        "text": "I want to learn bash scripting"
+      },
+      {
+        "intent": "STUDY",
+        "text": "I want to learn motherboard repairing"
+      },
+      {
+        "intent": "STUDY",
+        "text": "I want to learn tally software"
+      },
+      {
+        "intent": "STUDY",
+        "text": "I want to learn accounting"
+      },
+      {
+        "intent": "STUDY",
+        "text": "I want to learn blockchain"
+      },
+      {
+        "intent": "STUDY",
+        "text": "I am looking for spark"
+      },
+      {
+        "intent": "STUDY",
+        "text": "I am looking for solidity"
+      },
+      {
+        "intent": "STUDY",
+        "text": "I am looking for ethereum"
+      },
+      {
+        "intent": "STUDY",
+        "text": "I am looking for perl"
+      },
+      {
+        "intent": "STUDY",
+        "text": "I am looking for lua"
+      },
+      {
+        "intent": "STUDY",
+        "text": "I am looking for lisp"
+      },
+      {
+        "intent": "STUDY",
+        "text": "I am looking for game development"
+      },
+      {
+        "intent": "STUDY",
+        "text": "I am looking for game designing"
+      },
+      {
+        "intent": "STUDY",
+        "text": "I am looking for video editing"
+      },
+      {
+        "intent": "STUDY",
+        "text": "I am looking for image processing"
+      },
+      {
+        "intent": "STUDY",
+        "text": "I am looking for computer graphics"
+      },
+      {
+        "intent": "STUDY",
+        "text": "I want to study c"
+      },
+      {
+        "intent": "STUDY",
+        "text": "I am looking to learn machine learning"
+      },
+      {
+        "intent": "STUDY",
+        "text": "I want to learn java"
+      },
+      {
+        "intent": "STUDY",
+        "text": "I want to study c#"
+      },
+      {
+        "intent": "STUDY",
+        "text": "I want to learn r programming"
+      },
+      {
+        "intent": "STUDY",
+        "text": "I want to learn about google analytics"
+      },
+      {
+        "intent": "STUDY",
+        "text": "List down some course for .Net developers"
+      },
+      {
+        "intent": "STUDY",
+        "text": "I am looking to explore more in c++ programming"
+      },
+      {
+        "intent": "STUDY",
+        "text": "I am looking to learn about computer hardware"
+      },
+      {
+        "intent": "STUDY",
+        "text": "What are the top courses in web development"
+      },
+      {
+        "intent": "STUDY",
+        "text": "List some trending courses in analytics"
+      },
+      {
+        "intent": "STUDY",
+        "text": "What are the top courses in technology"
+      },
+      {
+        "intent": "STUDY",
+        "text": "I want a headstart on c programming"
+      },
+      {
+        "intent": "STUDY",
+        "text": "I am looking to learn ios"
+      },
+      {
+        "intent": "STUDY",
+        "text": "I want to study search engine optimization"
+      },
+      {
+        "intent": "STUDY",
+        "text": "Which book is best to learn spark?"
+      },
+      {
+        "intent": "STUDY",
+        "text": "I am looking to explore in digital marketing"
+      },
+      {
+        "intent": "STUDY",
+        "text": "List some trending courses in analytics"
+      },
+      {
+        "intent": "STUDY",
+        "text": "What are the top courses in technology"
+      },
+      {
+        "intent": "STUDY",
+        "text": "I want a headstart on c programming"
+      },
+      {
+        "intent": "STUDY",
+        "text": "I am looking to learn ios"
+      },
+      {
+        "intent": "STUDY",
+        "text": "I want to study search engine optimization"
+      },
+      {
+        "intent": "STUDY",
+        "text": "Which book is best to learn spark?"
+      },
+      {
+        "intent": "STUDY",
+        "text": "I am looking to explore in digital marketing"
+      },
+      {
+        "intent": "STUDY",
+        "text": "Want to learn data science from scratch"
+      },
+      {
+        "intent": "STUDY",
+        "text": "Want to add python in my skill"
+      },
+      {
+        "intent": "STUDY",
+        "text": "Which is the best book to learn hadoop?"
+      },
+      {
+        "intent": "STUDY",
+        "text": "I want to learn database"
+      },
+      {
+        "intent": "STUDY",
+        "text": "Which book is good to learn data structure"
+      },
+      {
+        "intent": "STUDY",
+        "text": "Show me some courses on analytics"
+      },
+      {
+        "intent": "STUDY",
+        "text": "Which are the top institute in bengaluru to learn python"
+      },
+      {
+        "intent": "STUDY",
+        "text": "Which skill should i do?"
+      },
+      {
+        "intent": "STUDY",
+        "text": "Which python framework should i learn to get started in web development"
+      },
+      {
+        "intent": "STUDY",
+        "text": "I want to learn about sap"
+      },
+      {
+        "intent": "STUDY",
+        "text": "Which book is best to learn python?"
+      },
+      {
+        "intent": "STUDY",
+        "text": "Should i learn html to get started in designing?"
+      },
+      {
+        "intent": "STUDY",
+        "text": "I want to learn about facebook ads"
+      },
+      {
+        "intent": "STUDY",
+        "text": "Which skill will help me in career growth"
+      },
+      {
+        "intent": "STUDY",
+        "text": "I am looking to learn content writing"
+      },
+      {
+        "intent": "STUDY",
+        "text": "I want to learn about rasa framework"
+      },
+      {
+        "intent": "STUDY",
+        "text": "I want to know about mean stack developer"
+      },
+      {
+        "intent": "STUDY",
+        "text": "I want to learn android"
+      },
+      {
+        "intent": "STUDY",
+        "text": "I want to learn .Net"
+      },
+      {
+        "intent": "STUDY",
+        "text": "I am looking to learn google adwords"
+      },
+      {
+        "intent": "STUDY",
+        "text": "I want to study angular js"
+      },
+      {
+        "intent": "STUDY",
+        "text": "I want to study wordpress plugin development"
+      },
+      {
+        "intent": "STUDY",
+        "text": "I am looking to learn jquery"
+      },
+      {
+        "intent": "STUDY",
+        "text": "I am looking to learn css"
+      },
+      {
+        "intent": "STUDY",
+        "text": "I am looking to learn spss"
+      },
+      {
+        "intent": "STUDY",
+        "text": "I am looking to learn scala"
+      },
+      {
+        "intent": "STUDY",
+        "text": "I want to learn swift language"
+      },
+      {
+        "intent": "STUDY",
+        "text": "I am looking to learn vb language"
+      },
+      {
+        "intent": "STUDY",
+        "text": "I want to learn photoshop"
+      },
+      {
+        "intent": "STUDY",
+        "text": "I am looking to learn android"
+      },
+      {
+        "intent": "STUDY",
+        "text": "I want to study ms excel"
+      },
+      {
+        "intent": "STUDY",
+        "text": "I want to learn networking"
+      },
+      {
+        "intent": "STUDY",
+        "text": "I want to learn mathematics"
+      },
+      {
+        "intent": "STUDY",
+        "text": "I want to learn typing"
+      },
+      {
+        "intent": "STUDY",
+        "text": "I know java"
+      },
+      {
+        "intent": "STUDY",
+        "text": "I know python"
+      },
+      {
+        "intent": "STUDY",
+        "text": "I know full stack web development"
+      },
+      {
+        "intent": "STUDY",
+        "text": "I know kotlin"
+      },
+      {
+        "intent": "STUDY",
+        "text": "I know andriod"
+      },
+      {
+        "intent": "STUDY",
+        "text": "I know marketing"
+      },
+      {
+        "intent": "STUDY",
+        "text": "I know about ethical hacking"
+      },
+      {
+        "intent": "STUDY",
+        "text": "I know about networking"
+      },
+      {
+        "intent": "STUDY",
+        "text": "I know andriod development"
+      },
+      {
+        "intent": "STUDY",
+        "text": "I studied engineering"
+      },
+      {
+        "intent": "STUDY",
+        "text": "I know cloud computing"
+      },
+      {
+        "intent": "STUDY",
+        "text": "I know hacking"
+      },
+      {
+        "intent": "STUDY",
+        "text": "I know to do modelling"
+      },
+      {
+        "intent": "STUDY",
+        "text": "I can drive vehicles safely"
+      },
+      {
+        "intent": "STUDY",
+        "text": "I know swimming nicely"
+      },
+      {
+        "intent": "STUDY",
+        "text": "I can run fast"
+      },
+      {
+        "intent": "STUDY",
+        "text": "I am good at investigation"
+      },
+      {
+        "intent": "STUDY",
+        "text": "I am good at shooting"
+      },
+      {
+        "intent": "STUDY",
+        "text": "I know acting"
+      },
+      {
+        "intent": "STUDY",
+        "text": "I can dance well"
+      },
+      {
+        "intent": "STUDY",
+        "text": "I am good artist"
+      },
+      {
+        "intent": "STUDY",
+        "text": "I can do animation"
+      },
+      {
+        "intent": "STUDY",
+        "text": "I know machine learning"
+      },
+      {
+        "intent": "STUDY",
+        "text": "I know data science"
+      },
+      {
+        "intent": "STUDY",
+        "text": "I know r"
+      },
+      {
+        "intent": "STUDY",
+        "text": "I am good at sports"
+      },
+      {
+        "intent": "STUDY",
+        "text": "I can bowl well"
+      },
+      {
+        "intent": "STUDY",
+        "text": "I'm interest python"
+      },
+      {
+        "intent": "STUDY",
+        "text": "I know ionic"
+      },
+      {
+        "intent": "STUDY",
+        "text": "I want to study android development"
+      },
+      {
+        "intent": "STUDY",
+        "text": "I want to know angulerjs"
+      },
+      {
+        "intent": "STUDY",
+        "text": "I'm interest in ai"
+      },
+      {
+        "intent": "STUDY",
+        "text": "I'm interest in node js"
+      },
+      {
+        "intent": "STUDY",
+        "text": "I'm interest in ios development"
+      },
+      {
+        "intent": "STUDY",
+        "text": "I want to know data mining"
+      },
+      {
+        "intent": "STUDY",
+        "text": "I want to know java script"
+      },
+      {
+        "intent": "STUDY",
+        "text": "I'm interest in dot net"
+      },
+      {
+        "intent": "STUDY",
+        "text": "I'm going to learn data science"
+      },
+      {
+        "intent": "STUDY",
+        "text": "I'm interest in big data"
+      },
+      {
+        "intent": "STUDY",
+        "text": "I want to know mechine learning"
+      },
+      {
+        "intent": "STUDY",
+        "text": "I want to know about ethical hacking"
+      },
+      {
+        "intent": "STUDY",
+        "text": "I want to learn c"
+      },
+      {
+        "intent": "STUDY",
+        "text": "I want to study ds"
+      },
+      {
+        "intent": "STUDY",
+        "text": "I am good at java"
+      },
+      {
+        "intent": "STUDY",
+        "text": "I know dbms"
+      },
+      {
+        "intent": "STUDY",
+        "text": "I am good at machine learning"
+      },
+      {
+        "intent": "STUDY",
+        "text": "I want to learn ai"
+      },
+      {
+        "intent": "STUDY",
+        "text": "I am looking for deep learning"
+      },
+      {
+        "intent": "STUDY",
+        "text": "I am interested in learning big data"
+      },
+      {
+        "intent": "STUDY",
+        "text": "I am looking for nlp"
+      },
+      {
+        "intent": "STUDY",
+        "text": "I know verilog"
+      },
+      {
+        "intent": "STUDY",
+        "text": "I am good at matlab"
+      },
+      {
+        "intent": "STUDY",
+        "text": "I want to study reinforcement learning"
+      },
+      {
+        "intent": "STUDY",
+        "text": "I want to learn singing."
+      },
+      {
+        "intent": "STUDY",
+        "text": "I want to learn ca."
+      },
+      {
+        "intent": "STUDY",
+        "text": "I want to learn bootstrap."
+      },
+      {
+        "intent": "SALARY",
+        "text": "Highest paid salary for a data scientist"
+      },
+      {
+        "intent": "SALARY",
+        "text": "Highest paid salary for a software engineer"
+      },
+      {
+        "intent": "SALARY",
+        "text": "Highest paid salary for a web developer"
+      },
+      {
+        "intent": "SALARY",
+        "text": "Highest paid salary for a manager in private banks"
+      },
+      {
+        "intent": "SALARY",
+        "text": "Highest paid salary for a mba"
+      },
+      {
+        "intent": "SALARY",
+        "text": "Highest paid salary for a doctor"
+      },
+      {
+        "intent": "SALARY",
+        "text": "Highest paid salary for a professor"
+      },
+      {
+        "intent": "SALARY",
+        "text": "Highest paid salary for a teacher"
+      },
+      {
+        "intent": "SALARY",
+        "text": "Highest paid salary for a dentist"
+      },
+      {
+        "intent": "SALARY",
+        "text": "Highest paid salary for a dancer"
+      },
+      {
+        "intent": "SALARY",
+        "text": "Highest paid salary for a singer"
+      },
+      {
+        "intent": "SALARY",
+        "text": "Highest paid salary for an actor"
+      },
+      {
+        "intent": "SALARY",
+        "text": "Highest paid salary for a ceo"
+      },
+      {
+        "intent": "SALARY",
+        "text": "What salary should i get in a law firm"
+      },
+      {
+        "intent": "SALARY",
+        "text": "What salary should i get to my employees if i own a startup"
+      },
+      {
+        "intent": "SALARY",
+        "text": "What is the basic salary for a mechanical engineer"
+      },
+      {
+        "intent": "SALARY",
+        "text": "What are the daily wages given to labourers in construction projects"
+      },
+      {
+        "intent": "SALARY",
+        "text": "Which company gives the best salary to its architect"
+      },
+      {
+        "intent": "SALARY",
+        "text": "Highest paid salary to an interior designer"
+      },
+      {
+        "intent": "SALARY",
+        "text": "Highest paid salary to a fashion designer"
+      },
+      {
+        "intent": "SALARY",
+        "text": "Highest paid salary to a clerk"
+      },
+      {
+        "intent": "SALARY",
+        "text": "Highest paid salary to managers working in reserve bank of india"
+      },
+      {
+        "intent": "SALARY",
+        "text": "Highest paid salary to lawyers"
+      },
+      {
+        "intent": "SALARY",
+        "text": "What is the average salary for a fresher in cs field"
+      },
+      {
+        "intent": "SALARY",
+        "text": "What is the basic salary for a civil engineer"
+      },
+      {
+        "intent": "SALARY",
+        "text": "What is the basic salary for a computer engineer"
+      },
+      {
+        "intent": "SALARY",
+        "text": "What is the basic salary for an ec engineer"
+      },
+      {
+        "intent": "SALARY",
+        "text": "What is the basic salary for an aeronautical engineer"
+      },
+      {
+        "intent": "SALARY",
+        "text": "What is the basic salary for a cyber security expert"
+      },
+      {
+        "intent": "SALARY",
+        "text": "When is the salary paid to employees in mnc companies"
+      },
+      {
+        "intent": "SALARY",
+        "text": "What is the salary of an engineer in mnc company"
+      },
+      {
+        "intent": "SALARY",
+        "text": "Which engineering to take to get the highest salary"
+      },
+      {
+        "intent": "SALARY",
+        "text": "How to get promotion in salary in sales department"
+      },
+      {
+        "intent": "SALARY",
+        "text": "How to get promoted with 30% hike in salary in amazon company"
+      },
+      {
+        "intent": "SALARY",
+        "text": "How to manage bank accounts for transfer of salary directly"
+      },
+      {
+        "intent": "SALARY",
+        "text": "How much tax to be paid if i have 50k salary per month"
+      },
+      {
+        "intent": "SALARY",
+        "text": "How to invest my salary wisely"
+      },
+      {
+        "intent": "SALARY",
+        "text": "How to invest my salary in mutual funds"
+      },
+      {
+        "intent": "SALARY",
+        "text": "How much car loan can i get if my monthly salary is 80k"
+      },
+      {
+        "intent": "SALARY",
+        "text": "Which website is best to see the basic and average salaries of software engineers"
+      },
+      {
+        "intent": "SALARY",
+        "text": "What salary should i expect if i am a licensed pilot"
+      },
+      {
+        "intent": "SALARY",
+        "text": "What salary should i expect if i have passed ca exam"
+      },
+      {
+        "intent": "SALARY",
+        "text": "Salary of the chairman in private universities"
+      },
+      {
+        "intent": "SALARY",
+        "text": "Salary of the hod of government colleges"
+      },
+      {
+        "intent": "SALARY",
+        "text": "Highest paid salary to a software engineer in google company"
+      },
+      {
+        "intent": "SALARY",
+        "text": "Highest paid salary to a manager working in commercial bank in hyderabad"
+      },
+      {
+        "intent": "SALARY",
+        "text": "Highest paid salary to a hotel management student in mumbai"
+      },
+      {
+        "intent": "SALARY",
+        "text": "Highest paid salary to an intern in it companies"
+      },
+      {
+        "intent": "SALARY",
+        "text": "I need"
+      },
+      {
+        "intent": "SALARY",
+        "text": "I expect"
+      },
+      {
+        "intent": "SALARY",
+        "text": "I need 20% more than previous job"
+      },
+      {
+        "intent": "SALARY",
+        "text": "Its better if i get"
+      },
+      {
+        "intent": "SALARY",
+        "text": "I want"
+      },
+      {
+        "intent": "SALARY",
+        "text": "I need #entity package"
+      },
+      {
+        "intent": "SALARY",
+        "text": "I need #entity daily wages"
+      },
+      {
+        "intent": "SALARY",
+        "text": "#Entity"
+      },
+      {
+        "intent": "SALARY",
+        "text": "I need #entity offer"
+      },
+      {
+        "intent": "SALARY",
+        "text": "Anything okay"
+      },
+      {
+        "intent": "SALARY",
+        "text": "Good salary"
+      },
+      {
+        "intent": "SALARY",
+        "text": "Depending on my skills"
+      },
+      {
+        "intent": "SALARY",
+        "text": "I need salary + accomdation"
+      },
+      {
+        "intent": "GREETING",
+        "text": "Hey there"
+      },
+      {
+        "intent": "GREETING",
+        "text": "Hi there"
+      },
+      {
+        "intent": "GREETING",
+        "text": "Hi"
+      },
+      {
+        "intent": "GREETING",
+        "text": "Hey"
+      },
+      {
+        "intent": "GREETING",
+        "text": "Hello"
+      },
+      {
+        "intent": "GREETING",
+        "text": "Hola"
+      },
+      {
+        "intent": "GREETING",
+        "text": "Bonjour"
+      },
+      {
+        "intent": "GREETING",
+        "text": "How have you been?"
+      },
+      {
+        "intent": "GREETING",
+        "text": "Good morning madam"
+      },
+      {
+        "intent": "GREETING",
+        "text": "Good evening sir"
+      },
+      {
+        "intent": "GREETING",
+        "text": "Good to see you"
+      },
+      {
+        "intent": "GREETING",
+        "text": "Hope you are doing well"
+      },
+      {
+        "intent": "GREETING",
+        "text": "Hey,can you help me out?"
+      },
+      {
+        "intent": "GREETING",
+        "text": "Are you there?"
+      },
+      {
+        "intent": "GREETING",
+        "text": "What's going on?"
+      },
+      {
+        "intent": "GREETING",
+        "text": "Hello, have a nice day"
+      },
+      {
+        "intent": "GREETING",
+        "text": "Happy morning"
+      },
+      {
+        "intent": "GREETING",
+        "text": "Hello sister"
+      },
+      {
+        "intent": "GREETING",
+        "text": "Have a good day madam"
+      },
+      {
+        "intent": "GREETING",
+        "text": "Have a good day sir"
+      },
+      {
+        "intent": "GREETING",
+        "text": "Happy evening"
+      },
+      {
+        "intent": "GREETING",
+        "text": "Hey,give me latest news"
+      },
+      {
+        "intent": "GREETING",
+        "text": "Have a good day"
+      },
+      {
+        "intent": "GREETING",
+        "text": "Have a wonderful day"
+      },
+      {
+        "intent": "GREETING",
+        "text": "Pleasure to talk to you"
+      },
+      {
+        "intent": "GREETING",
+        "text": "Hello dear"
+      },
+      {
+        "intent": "GREETING",
+        "text": "How things are moving?"
+      },
+      {
+        "intent": "GREETING",
+        "text": "Hey bro"
+      },
+      {
+        "intent": "GREETING",
+        "text": "Hey dude"
+      },
+      {
+        "intent": "GREETING",
+        "text": "Heya"
+      },
+      {
+        "intent": "GREETING",
+        "text": "Hey friend"
+      },
+      {
+        "intent": "GREETING",
+        "text": "Hey man what's up"
+      },
+      {
+        "intent": "GREETING",
+        "text": "Hey, please help me"
+      },
+      {
+        "intent": "GREETING",
+        "text": "How is it going?"
+      },
+      {
+        "intent": "GREETING",
+        "text": "How are you doing?"
+      },
+      {
+        "intent": "GREETING",
+        "text": "What's up"
+      },
+      {
+        "intent": "GREETING",
+        "text": "After what time you will be back?"
+      },
+      {
+        "intent": "GREETING",
+        "text": "When will you come?"
+      },
+      {
+        "intent": "GREETING",
+        "text": "How are you?"
+      },
+      {
+        "intent": "GREETING",
+        "text": "Hello sir"
+      },
+      {
+        "intent": "GREETING",
+        "text": "Hi friend"
+      },
+      {
+        "intent": "GREETING",
+        "text": "How can i help you?"
+      },
+      {
+        "intent": "GREETING",
+        "text": "What do you want?"
+      },
+      {
+        "intent": "GREETING",
+        "text": "How are you doing today?"
+      },
+      {
+        "intent": "GREETING",
+        "text": "Are you online?"
+      },
+      {
+        "intent": "GREETING",
+        "text": "Hii, what's going on?"
+      },
+      {
+        "intent": "GREETING",
+        "text": "What's the good news today?"
+      },
+      {
+        "intent": "GREETING",
+        "text": "Hope, you are doing well"
+      },
+      {
+        "intent": "GREETING",
+        "text": "How are things going?"
+      },
+      {
+        "intent": "GREETING",
+        "text": "How are things moving?"
+      },
+      {
+        "intent": "GREETING",
+        "text": "How was you day?"
+      },
+      {
+        "intent": "GREETING",
+        "text": "Wish you good luck"
+      },
+      {
+        "intent": "GREETING",
+        "text": "Wish you all the best"
+      },
+      {
+        "intent": "GREETING",
+        "text": "Hii, brother"
+      },
+      {
+        "intent": "GREETING",
+        "text": "Can i help you?"
+      },
+      {
+        "intent": "GREETING",
+        "text": "What's new?"
+      },
+      {
+        "intent": "GREETING",
+        "text": "Any latest update?"
+      },
+      {
+        "intent": "GREETING",
+        "text": "How are you man?"
+      },
+      {
+        "intent": "GREETING",
+        "text": "Namaste sir"
+      },
+      {
+        "intent": "GREETING",
+        "text": "Namaste mam"
+      },
+      {
+        "intent": "GREETING",
+        "text": "Good afternoon"
+      },
+      {
+        "intent": "GREETING",
+        "text": "Good evening"
+      },
+      {
+        "intent": "GREETING",
+        "text": "Good night"
+      },
+      {
+        "intent": "GREETING",
+        "text": "What's happening?"
+      },
+      {
+        "intent": "GREETING",
+        "text": "What's the good word?"
+      },
+      {
+        "intent": "GREETING",
+        "text": "Hey, what's up"
+      },
+      {
+        "intent": "GREETING",
+        "text": "Hey dude, what's going on?"
+      },
+      {
+        "intent": "GREETING",
+        "text": "What have you been upto man"
+      },
+      {
+        "intent": "GREETING",
+        "text": "Where did you go mam?"
+      },
+      {
+        "intent": "GREETING",
+        "text": "When will you come back sir?"
+      },
+      {
+        "intent": "GREETING",
+        "text": "Hello there"
+      },
+      {
+        "intent": "GREETING",
+        "text": "How are you"
+      },
+      {
+        "intent": "GREETING",
+        "text": "How do you do"
+      },
+      {
+        "intent": "GREETING",
+        "text": "Whatsup"
+      },
+      {
+        "intent": "GREETING",
+        "text": "What are you doing"
+      },
+      {
+        "intent": "GREETING",
+        "text": "How are you doing"
+      },
+      {
+        "intent": "GREETING",
+        "text": "How was your day"
+      },
+      {
+        "intent": "GREETING",
+        "text": "Good morning"
+      },
+      {
+        "intent": "GREETING",
+        "text": "Good day"
+      },
+      {
+        "intent": "GREETING",
+        "text": "Hi, whats going on"
+      },
+      {
+        "intent": "GREETING",
+        "text": "Nice to meet you"
+      },
+      {
+        "intent": "GREETING",
+        "text": "Namaste"
+      },
+      {
+        "intent": "GREETING",
+        "text": "Nomoskar"
+      },
+      {
+        "intent": "GREETING",
+        "text": "Greetings, sir"
+      },
+      {
+        "intent": "GREETING",
+        "text": "Greetings, madam"
+      },
+      {
+        "intent": "GREETING",
+        "text": "Hey man"
+      },
+      {
+        "intent": "GREETING",
+        "text": "Hey can you help me with my problem"
+      },
+      {
+        "intent": "GREETING",
+        "text": "Hi help me solve this"
+      },
+      {
+        "intent": "GREETING",
+        "text": "Hey how are you doing today"
+      },
+      {
+        "intent": "GREETING",
+        "text": "Hope you have a nice day"
+      },
+      {
+        "intent": "GREETING",
+        "text": "Have a nice day"
+      },
+      {
+        "intent": "GREETING",
+        "text": "Hey whats new"
+      },
+      {
+        "intent": "GREETING",
+        "text": "Hii any latest updates"
+      },
+      {
+        "intent": "GREETING",
+        "text": "Have a nice day sir"
+      },
+      {
+        "intent": "GREETING",
+        "text": "Have a nice day madam"
+      },
+      {
+        "intent": "GREETING",
+        "text": "Namaster madam"
+      },
+      {
+        "intent": "GREETING",
+        "text": "How are you man"
+      },
+      {
+        "intent": "GREETING",
+        "text": "Hi, how can i help you"
+      },
+      {
+        "intent": "GREETING",
+        "text": "Hello, how can i help you"
+      },
+      {
+        "intent": "GREETING",
+        "text": "How are you.."
+      },
+      {
+        "intent": "GREETING",
+        "text": "Hi good morning"
+      },
+      {
+        "intent": "GREETING",
+        "text": "Hi good evening"
+      },
+      {
+        "intent": "GREETING",
+        "text": "Hey how are u"
+      },
+      {
+        "intent": "GREETING",
+        "text": "Hey how are you doing this morning"
+      },
+      {
+        "intent": "GREETING",
+        "text": "Hii can you help me"
+      },
+      {
+        "intent": "GREETING",
+        "text": "Whattsup"
+      },
+      {
+        "intent": "GREETING",
+        "text": "Hiii how are you doing"
+      },
+      {
+        "intent": "GREETING",
+        "text": "Hi, whats going on?"
+      },
+      {
+        "intent": "GREETING",
+        "text": "Nice to talk to you"
+      },
+      {
+        "intent": "GREETING",
+        "text": "Hello, what are you doing now"
+      },
+      {
+        "intent": "GREETING",
+        "text": "Hi, what is trending these days"
+      },
+      {
+        "intent": "GREETING",
+        "text": "Hello, how is everything"
+      },
+      {
+        "intent": "GREETING",
+        "text": "Hi, whats new"
+      },
+      {
+        "intent": "GREETING",
+        "text": "Hey there, whats up"
+      },
+      {
+        "intent": "GREETING",
+        "text": "Yo"
+      },
+      {
+        "intent": "GREETING",
+        "text": "Yo man whats up"
+      },
+      {
+        "intent": "GREETING",
+        "text": "Hi, whats the good news today?"
+      },
+      {
+        "intent": "GREETING",
+        "text": "Its a pleasure to talk to you."
+      },
+      {
+        "intent": "GREETING",
+        "text": "Hi, hope you are doing well."
+      },
+      {
+        "intent": "GREETING",
+        "text": "How are things?"
+      },
+      {
+        "intent": "GREETING",
+        "text": "How you doing"
+      },
+      {
+        "intent": "GREETING",
+        "text": "Whats up ?"
+      },
+      {
+        "intent": "GREETING",
+        "text": "Howdy ?"
+      },
+      {
+        "intent": "GREETING",
+        "text": "Hi,how do you do"
+      },
+      {
+        "intent": "GREETING",
+        "text": "Hello,how are you"
+      },
+      {
+        "intent": "GREETING",
+        "text": "Hi,how are you"
+      },
+      {
+        "intent": "GREETING",
+        "text": "Hello,what can you do for me"
+      },
+      {
+        "intent": "GREETING",
+        "text": "Hi,what can you do for me"
+      },
+      {
+        "intent": "GREETING",
+        "text": "Hello,what can you do"
+      },
+      {
+        "intent": "GREETING",
+        "text": "Hi,what can you do"
+      },
+      {
+        "intent": "GREETING",
+        "text": "Hey,what can you do"
+      },
+      {
+        "intent": "GREETING",
+        "text": "Hey,what can you do for me"
+      },
+      {
+        "intent": "GREETING",
+        "text": "Hey,how are you"
+      },
+      {
+        "intent": "GREETING",
+        "text": "Hey,how do you do"
+      },
+      {
+        "intent": "GREETING",
+        "text": "Hi,how are you doing"
+      },
+      {
+        "intent": "GREETING",
+        "text": "Hey,how are you doing"
+      },
+      {
+        "intent": "GREETING",
+        "text": "Hello,how are you doing"
+      },
+      {
+        "intent": "GREETING",
+        "text": "How are things"
+      },
+      {
+        "intent": "GREETING",
+        "text": "How are things with you"
+      },
+      {
+        "intent": "GREETING",
+        "text": "What's happening"
+      },
+      {
+        "intent": "GREETING",
+        "text": "How is everything"
+      },
+      {
+        "intent": "GREETING",
+        "text": "How's everything going"
+      },
+      {
+        "intent": "GREETING",
+        "text": "How's it going"
+      },
+      {
+        "intent": "GREETING",
+        "text": "What's new"
+      },
+      {
+        "intent": "GREETING",
+        "text": "What have you been upto"
+      },
+      {
+        "intent": "GREETING",
+        "text": "What's the good word"
+      },
+      {
+        "intent": "GREETING",
+        "text": "How have you been"
+      },
+      {
+        "intent": "GREETING",
+        "text": "Hey,what's up"
+      },
+      {
+        "intent": "GREETING",
+        "text": "Hello,how do you do"
+      },
+      {
+        "intent": "GREETING",
+        "text": "Hey dude,what's going on"
+      },
+      {
+        "intent": "GREETING",
+        "text": "How are you bro"
+      },
+      {
+        "intent": "GREETING",
+        "text": "Hey bro,what's up"
+      },
+      {
+        "intent": "GREETING",
+        "text": "Hey bot"
+      },
+      {
+        "intent": "GREETING",
+        "text": "Hello bot"
+      },
+      {
+        "intent": "GREETING",
+        "text": "Hey bot,how can you help me"
+      },
+      {
+        "intent": "GREETING",
+        "text": "Hey bot,what can you do"
+      },
+      {
+        "intent": "GREETING",
+        "text": "Hello bot,how can you help me"
+      },
+      {
+        "intent": "GREETING",
+        "text": "Hello bot,what can you do"
+      },
+      {
+        "intent": "GREETING",
+        "text": "What's your nice name"
+      },
+      {
+        "intent": "GREETING",
+        "text": "Hi there"
+      },
+      {
+        "intent": "GREETING",
+        "text": "Hi can you help me"
+      },
+      {
+        "intent": "GREETING",
+        "text": "Hi can you suggest me"
+      },
+      {
+        "intent": "GREETING",
+        "text": "Hey/hi i needed help"
+      },
+      {
+        "intent": "GREETING",
+        "text": "Hey/hi i need job"
+      },
+      {
+        "intent": "GREETING",
+        "text": "Namaskar"
+      },
+      {
+        "intent": "GREETING",
+        "text": "Career bot?"
+      },
+      {
+        "intent": "GREETING",
+        "text": "There"
+      },
+      {
+        "intent": "GREETING",
+        "text": "Sir"
+      },
+      {
+        "intent": "GREETING",
+        "text": "Mam"
+      },
+      {
+        "intent": "GREETING",
+        "text": "Whats doing?"
+      },
+      {
+        "intent": "GREETING",
+        "text": "Howdy"
+      },
+      {
+        "intent": "GREETING",
+        "text": "Greetings"
+      },
+      {
+        "intent": "GREETING",
+        "text": "Hey, what’s up?"
+      },
+      {
+        "intent": "GREETING",
+        "text": "I needed help immediately"
+      },
+      {
+        "intent": "GREETING",
+        "text": "What’s going on?"
+      },
+      {
+        "intent": "GREETING",
+        "text": "Hey! There she/he is"
+      },
+      {
+        "intent": "GREETING",
+        "text": "How’s everything?"
+      },
+      {
+        "intent": "GREETING",
+        "text": "Great to see you"
+      },
+      {
+        "intent": "GREETING",
+        "text": "Nice to see you"
+      },
+      {
+        "intent": "GREETING",
+        "text": "Anyone there"
+      },
+      {
+        "intent": "GREETING",
+        "text": "Is it real career bot?"
+      },
+      {
+        "intent": "GREETING",
+        "text": "Long time no see"
+      },
+      {
+        "intent": "GREETING",
+        "text": "What’s the good word?"
+      },
+      {
+        "intent": "GREETING",
+        "text": "What’s new?"
+      },
+      {
+        "intent": "GREETING",
+        "text": "Look who it is!"
+      },
+      {
+        "intent": "GREETING",
+        "text": "Nice to see you again."
+      },
+      {
+        "intent": "GREETING",
+        "text": "Greetings and salutations!"
+      },
+      {
+        "intent": "GREETING",
+        "text": "What have you been up to?"
+      },
+      {
+        "intent": "GREETING",
+        "text": "How are you feeling today?"
+      },
+      {
+        "intent": "GREETING",
+        "text": "What’s happening"
+      },
+      {
+        "intent": "GREETING",
+        "text": "How’s it going?"
+      },
+      {
+        "intent": "GREETING",
+        "text": "Hey, boo"
+      },
+      {
+        "intent": "GREETING",
+        "text": "Nice to meet you!"
+      },
+      {
+        "intent": "GREETING",
+        "text": "Hello there?"
+      },
+      {
+        "intent": "GREETING",
+        "text": "Hello what's doing"
+      },
+      {
+        "intent": "GREETING",
+        "text": "What's up?"
+      },
+      {
+        "intent": "GREETING",
+        "text": "It’s nice to meet you"
+      },
+      {
+        "intent": "GREETING",
+        "text": "I’m pleased to meet you."
+      },
+      {
+        "intent": "GREETING",
+        "text": "It’s a pleasure to meet you."
+      },
+      {
+        "intent": "GREETING",
+        "text": "I’m glad to see you."
+      },
+      {
+        "intent": "GREETING",
+        "text": "How do you do?"
+      },
+      {
+        "intent": "GREETING",
+        "text": "What’s up?"
+      },
+      {
+        "intent": "GREETING",
+        "text": "How’s your day?"
+      },
+      {
+        "intent": "GREETING",
+        "text": "How’s your day going?"
+      },
+      {
+        "intent": "GREETING",
+        "text": "Good to see you."
+      },
+      {
+        "intent": "GREETING",
+        "text": "Long time no see."
+      },
+      {
+        "intent": "GREETING",
+        "text": "It’s been a while."
+      },
+      {
+        "intent": "GREETING",
+        "text": "It’s been a long time."
+      },
+      {
+        "intent": "GREETING",
+        "text": "I’m so happy to see you again."
+      },
+      {
+        "intent": "GREETING",
+        "text": "Wow, it’s so good to see you again!"
+      },
+      {
+        "intent": "GREETING",
+        "text": "Hello,what's up?"
+      },
+      {
+        "intent": "GREETING",
+        "text": "Hi, are you there?"
+      },
+      {
+        "intent": "GREETING",
+        "text": "How may i help you?"
+      },
+      {
+        "intent": "GREETING",
+        "text": "Long time no see, what are you doing now?"
+      },
+      {
+        "intent": "GREETING",
+        "text": "Nice to meet you after long time"
+      },
+      {
+        "intent": "GREETING",
+        "text": "Hey, how do you do?"
+      },
+      {
+        "intent": "GREETING",
+        "text": "Welcome"
+      },
+      {
+        "intent": "GREETING",
+        "text": "Good afternooon"
+      },
+      {
+        "intent": "GREETING",
+        "text": "It's nice to meet you"
+      },
+      {
+        "intent": "GREETING",
+        "text": "It's pleasure to meet you"
+      },
+      {
+        "intent": "GREETING",
+        "text": "How can i hep you?"
+      },
+      {
+        "intent": "GREETING",
+        "text": "May i help you?"
+      },
+      {
+        "intent": "GREETING",
+        "text": "Tell me, what can i do for you?"
+      },
+      {
+        "intent": "GREETING",
+        "text": "Do you want to know something?"
+      },
+      {
+        "intent": "GREETING",
+        "text": "Need any help?"
+      },
+      {
+        "intent": "GREETING",
+        "text": "Require help message me?"
+      },
+      {
+        "intent": "GREETING",
+        "text": "What kind of information you need?"
+      },
+      {
+        "intent": "GREETING",
+        "text": "Hey!"
+      },
+      {
+        "intent": "GREETING",
+        "text": "Hey! Supp?"
+      },
+      {
+        "intent": "GREETING",
+        "text": "Hey! There?"
+      },
+      {
+        "intent": "GREETING",
+        "text": "Hi! How you doing?"
+      },
+      {
+        "intent": "GREETING",
+        "text": "Hi! How are you?"
+      },
+      {
+        "intent": "GREETING",
+        "text": "Hi! Supp?"
+      },
+      {
+        "intent": "GREETING",
+        "text": "Hi bro"
+      },
+      {
+        "intent": "GREETING",
+        "text": "Hey! I need some help you there?"
+      },
+      {
+        "intent": "GREETING",
+        "text": "Hey! How's the day?"
+      },
+      {
+        "intent": "GREETING",
+        "text": "Hi! How can you help me?"
+      },
+      {
+        "intent": "GREETING",
+        "text": "Hey! Good morning"
+      },
+      {
+        "intent": "GREETING",
+        "text": "Hey! Good evening"
+      },
+      {
+        "intent": "GREETING",
+        "text": "Hey! Give me some caree advice?"
+      },
+      {
+        "intent": "GREETING",
+        "text": "Hey! Any updates for me?"
+      },
+      {
+        "intent": "GREETING",
+        "text": "Hi! Any recent openings?"
+      },
+      {
+        "intent": "GREETING",
+        "text": "Hey! Can you review my cv?"
+      },
+      {
+        "intent": "GREETING",
+        "text": "Hey! What's going on"
+      },
+      {
+        "intent": "GREETING",
+        "text": "Wassup?"
+      },
+      {
+        "intent": "GREETING",
+        "text": "Hey! Supp bro?"
+      },
+      {
+        "intent": "GREETING",
+        "text": "Hey dude how's life?"
+      },
+      {
+        "intent": "GREETING",
+        "text": "Hi,how are you today"
+      },
+      {
+        "intent": "GREETING",
+        "text": "How can i help you"
+      },
+      {
+        "intent": "GREETING",
+        "text": "Hey! Help me"
+      },
+      {
+        "intent": "GREETING",
+        "text": "Pleasure to meet you"
+      },
+      {
+        "intent": "GREETING",
+        "text": "Hey there"
+      },
+      {
+        "intent": "GREETING",
+        "text": "Hi there"
+      },
+      {
+        "intent": "GREETING",
+        "text": "Hi"
+      },
+      {
+        "intent": "GREETING",
+        "text": "Hey"
+      },
+      {
+        "intent": "GREETING",
+        "text": "Hello"
+      },
+      {
+        "intent": "GREETING",
+        "text": "Hola"
+      },
+      {
+        "intent": "GREETING",
+        "text": "Bonjour"
+      },
+      {
+        "intent": "GREETING",
+        "text": "How have you been?"
+      },
+      {
+        "intent": "GREETING",
+        "text": "Good morning madam"
+      },
+      {
+        "intent": "GREETING",
+        "text": "Good evening sir"
+      },
+      {
+        "intent": "GREETING",
+        "text": "Good to see you"
+      },
+      {
+        "intent": "GREETING",
+        "text": "Hope you are doing well"
+      },
+      {
+        "intent": "GREETING",
+        "text": "Hey,can you help me out?"
+      },
+      {
+        "intent": "GREETING",
+        "text": "Are you there?"
+      },
+      {
+        "intent": "GREETING",
+        "text": "What's going on?"
+      },
+      {
+        "intent": "GREETING",
+        "text": "Hello, have a nice day"
+      },
+      {
+        "intent": "GREETING",
+        "text": "Happy morning"
+      },
+      {
+        "intent": "GREETING",
+        "text": "Hello sister"
+      },
+      {
+        "intent": "GREETING",
+        "text": "Have a good day madam"
+      },
+      {
+        "intent": "GREETING",
+        "text": "Have a good day sir"
+      },
+      {
+        "intent": "GREETING",
+        "text": "Happy evening"
+      },
+      {
+        "intent": "GREETING",
+        "text": "Hey,give me latest news"
+      },
+      {
+        "intent": "GREETING",
+        "text": "Have a good day"
+      },
+      {
+        "intent": "GREETING",
+        "text": "Have a wonderful day"
+      },
+      {
+        "intent": "GREETING",
+        "text": "Pleasure to talk to you"
+      },
+      {
+        "intent": "GREETING",
+        "text": "Hello dear"
+      },
+      {
+        "intent": "GREETING",
+        "text": "How things are moving?"
+      },
+      {
+        "intent": "GREETING",
+        "text": "Hey bro"
+      },
+      {
+        "intent": "GREETING",
+        "text": "Hey dude"
+      },
+      {
+        "intent": "GREETING",
+        "text": "Heya"
+      },
+      {
+        "intent": "GREETING",
+        "text": "Hey friend"
+      },
+      {
+        "intent": "GREETING",
+        "text": "Hey man what's up"
+      },
+      {
+        "intent": "GREETING",
+        "text": "Hey, please help me"
+      },
+      {
+        "intent": "GREETING",
+        "text": "How is it going?"
+      },
+      {
+        "intent": "GREETING",
+        "text": "How are you doing?"
+      },
+      {
+        "intent": "GREETING",
+        "text": "What's up"
+      },
+      {
+        "intent": "GREETING",
+        "text": "After what time you will be back?"
+      },
+      {
+        "intent": "GREETING",
+        "text": "When will you come?"
+      },
+      {
+        "intent": "GREETING",
+        "text": "How are you?"
+      },
+      {
+        "intent": "GREETING",
+        "text": "Hello sir"
+      },
+      {
+        "intent": "GREETING",
+        "text": "Hi friend"
+      },
+      {
+        "intent": "GREETING",
+        "text": "How can i help you?"
+      },
+      {
+        "intent": "GREETING",
+        "text": "What do you want?"
+      },
+      {
+        "intent": "GREETING",
+        "text": "How are you doing today?"
+      },
+      {
+        "intent": "GREETING",
+        "text": "Are you online?"
+      },
+      {
+        "intent": "GREETING",
+        "text": "Hii, what's going on?"
+      },
+      {
+        "intent": "GREETING",
+        "text": "What's the good news today?"
+      },
+      {
+        "intent": "GREETING",
+        "text": "Hope, you are doing well"
+      },
+      {
+        "intent": "GREETING",
+        "text": "How are things going?"
+      },
+      {
+        "intent": "GREETING",
+        "text": "How are things moving?"
+      },
+      {
+        "intent": "GREETING",
+        "text": "How was you day?"
+      },
+      {
+        "intent": "GREETING",
+        "text": "Wish you good luck"
+      },
+      {
+        "intent": "GREETING",
+        "text": "Wish you all the best"
+      },
+      {
+        "intent": "GREETING",
+        "text": "Hii, brother"
+      },
+      {
+        "intent": "GREETING",
+        "text": "Can i help you?"
+      },
+      {
+        "intent": "GREETING",
+        "text": "What's new?"
+      },
+      {
+        "intent": "GREETING",
+        "text": "Any latest update?"
+      },
+      {
+        "intent": "GREETING",
+        "text": "How are you man?"
+      },
+      {
+        "intent": "GREETING",
+        "text": "Namaste sir"
+      },
+      {
+        "intent": "GREETING",
+        "text": "Namaste mam"
+      },
+      {
+        "intent": "GREETING",
+        "text": "Good afternoon"
+      },
+      {
+        "intent": "GREETING",
+        "text": "Good evening"
+      },
+      {
+        "intent": "GREETING",
+        "text": "Good night"
+      },
+      {
+        "intent": "GREETING",
+        "text": "What's happening?"
+      },
+      {
+        "intent": "GREETING",
+        "text": "What's the good word?"
+      },
+      {
+        "intent": "GREETING",
+        "text": "Hey, what's up"
+      },
+      {
+        "intent": "GREETING",
+        "text": "Hey dude, what's going on?"
+      },
+      {
+        "intent": "GREETING",
+        "text": "What have you been upto man"
+      },
+      {
+        "intent": "GREETING",
+        "text": "Where did you go mam?"
+      },
+      {
+        "intent": "GREETING",
+        "text": "When will you come back sir?"
+      },
+      {
+        "intent": "GREETING",
+        "text": "Hello there"
+      },
+      {
+        "intent": "GREETING",
+        "text": "How are you"
+      },
+      {
+        "intent": "GREETING",
+        "text": "How do you do"
+      },
+      {
+        "intent": "GREETING",
+        "text": "Whatsup"
+      },
+      {
+        "intent": "GREETING",
+        "text": "What are you doing"
+      },
+      {
+        "intent": "GREETING",
+        "text": "How are you doing"
+      },
+      {
+        "intent": "GREETING",
+        "text": "How was your day"
+      },
+      {
+        "intent": "GREETING",
+        "text": "Good morning"
+      },
+      {
+        "intent": "GREETING",
+        "text": "Good day"
+      },
+      {
+        "intent": "GREETING",
+        "text": "Hi, whats going on"
+      },
+      {
+        "intent": "GREETING",
+        "text": "Nice to meet you"
+      },
+      {
+        "intent": "GREETING",
+        "text": "Namaste"
+      },
+      {
+        "intent": "GREETING",
+        "text": "Nomoskar"
+      },
+      {
+        "intent": "GREETING",
+        "text": "Greetings, sir"
+      },
+      {
+        "intent": "GREETING",
+        "text": "Greetings, madam"
+      },
+      {
+        "intent": "GREETING",
+        "text": "Hey man"
+      },
+      {
+        "intent": "GREETING",
+        "text": "Hey can you help me with my problem"
+      },
+      {
+        "intent": "GREETING",
+        "text": "Hi help me solve this"
+      },
+      {
+        "intent": "GREETING",
+        "text": "Hey how are you doing today"
+      },
+      {
+        "intent": "GREETING",
+        "text": "Hope you have a nice day"
+      },
+      {
+        "intent": "GREETING",
+        "text": "Have a nice day"
+      },
+      {
+        "intent": "GREETING",
+        "text": "Hey whats new"
+      },
+      {
+        "intent": "GREETING",
+        "text": "Hii any latest updates"
+      },
+      {
+        "intent": "GREETING",
+        "text": "Have a nice day sir"
+      },
+      {
+        "intent": "GREETING",
+        "text": "Have a nice day madam"
+      },
+      {
+        "intent": "GREETING",
+        "text": "Namaster madam"
+      },
+      {
+        "intent": "GREETING",
+        "text": "How are you man"
+      },
+      {
+        "intent": "GREETING",
+        "text": "Hi, how can i help you"
+      },
+      {
+        "intent": "GREETING",
+        "text": "Hello, how can i help you"
+      },
+      {
+        "intent": "GREETING",
+        "text": "How are you.."
+      },
+      {
+        "intent": "GREETING",
+        "text": "Hi good morning"
+      },
+      {
+        "intent": "GREETING",
+        "text": "Hi good evening"
+      },
+      {
+        "intent": "GREETING",
+        "text": "Hey how are u"
+      },
+      {
+        "intent": "GREETING",
+        "text": "Hey how are you doing this morning"
+      },
+      {
+        "intent": "GREETING",
+        "text": "Hii can you help me"
+      },
+      {
+        "intent": "GREETING",
+        "text": "Whattsup"
+      },
+      {
+        "intent": "GREETING",
+        "text": "Hiii how are you doing"
+      },
+      {
+        "intent": "GREETING",
+        "text": "Hi, whats going on?"
+      },
+      {
+        "intent": "GREETING",
+        "text": "Nice to talk to you"
+      },
+      {
+        "intent": "GREETING",
+        "text": "Hello, what are you doing now"
+      },
+      {
+        "intent": "GREETING",
+        "text": "Hi, what is trending these days"
+      },
+      {
+        "intent": "GREETING",
+        "text": "Hello, how is everything"
+      },
+      {
+        "intent": "GREETING",
+        "text": "Hi, whats new"
+      },
+      {
+        "intent": "GREETING",
+        "text": "Hey there, whats up"
+      },
+      {
+        "intent": "GREETING",
+        "text": "Yo"
+      },
+      {
+        "intent": "GREETING",
+        "text": "Yo man whats up"
+      },
+      {
+        "intent": "GREETING",
+        "text": "Hi, whats the good news today?"
+      },
+      {
+        "intent": "GREETING",
+        "text": "Its a pleasure to talk to you."
+      },
+      {
+        "intent": "GREETING",
+        "text": "Hi, hope you are doing well."
+      },
+      {
+        "intent": "GREETING",
+        "text": "How are things?"
+      },
+      {
+        "intent": "GREETING",
+        "text": "How you doing"
+      },
+      {
+        "intent": "GREETING",
+        "text": "Whats up ?"
+      },
+      {
+        "intent": "GREETING",
+        "text": "Howdy ?"
+      },
+      {
+        "intent": "GREETING",
+        "text": "Hi,how do you do"
+      },
+      {
+        "intent": "GREETING",
+        "text": "Hello,how are you"
+      },
+      {
+        "intent": "GREETING",
+        "text": "Hi,how are you"
+      },
+      {
+        "intent": "GREETING",
+        "text": "Hello,what can you do for me"
+      },
+      {
+        "intent": "GREETING",
+        "text": "Hi,what can you do for me"
+      },
+      {
+        "intent": "GREETING",
+        "text": "Hello,what can you do"
+      },
+      {
+        "intent": "GREETING",
+        "text": "Hi,what can you do"
+      },
+      {
+        "intent": "GREETING",
+        "text": "Hey,what can you do"
+      },
+      {
+        "intent": "GREETING",
+        "text": "Hey,what can you do for me"
+      },
+      {
+        "intent": "GREETING",
+        "text": "Hey,how are you"
+      },
+      {
+        "intent": "GREETING",
+        "text": "Hey,how do you do"
+      },
+      {
+        "intent": "GREETING",
+        "text": "Hi,how are you doing"
+      },
+      {
+        "intent": "GREETING",
+        "text": "Hey,how are you doing"
+      },
+      {
+        "intent": "GREETING",
+        "text": "Hello,how are you doing"
+      },
+      {
+        "intent": "GREETING",
+        "text": "How are things"
+      },
+      {
+        "intent": "GREETING",
+        "text": "How are things with you"
+      },
+      {
+        "intent": "GREETING",
+        "text": "What's happening"
+      },
+      {
+        "intent": "GREETING",
+        "text": "How is everything"
+      },
+      {
+        "intent": "GREETING",
+        "text": "How's everything going"
+      },
+      {
+        "intent": "GREETING",
+        "text": "How's it going"
+      },
+      {
+        "intent": "GREETING",
+        "text": "What's new"
+      },
+      {
+        "intent": "GREETING",
+        "text": "What have you been upto"
+      },
+      {
+        "intent": "GREETING",
+        "text": "What's the good word"
+      },
+      {
+        "intent": "GREETING",
+        "text": "How have you been"
+      },
+      {
+        "intent": "GREETING",
+        "text": "Hey,what's up"
+      },
+      {
+        "intent": "GREETING",
+        "text": "Hello,how do you do"
+      },
+      {
+        "intent": "GREETING",
+        "text": "Hey dude,what's going on"
+      },
+      {
+        "intent": "GREETING",
+        "text": "How are you bro"
+      },
+      {
+        "intent": "GREETING",
+        "text": "Hey bro,what's up"
+      },
+      {
+        "intent": "GREETING",
+        "text": "Hey bot"
+      },
+      {
+        "intent": "GREETING",
+        "text": "Hello bot"
+      },
+      {
+        "intent": "GREETING",
+        "text": "Hey bot,how can you help me"
+      },
+      {
+        "intent": "GREETING",
+        "text": "Hey bot,what can you do"
+      },
+      {
+        "intent": "GREETING",
+        "text": "Hello bot,how can you help me"
+      },
+      {
+        "intent": "GREETING",
+        "text": "Hello bot,what can you do"
+      },
+      {
+        "intent": "GREETING",
+        "text": "What's your nice name"
+      },
+      {
+        "intent": "GREETING",
+        "text": "Hi there"
+      },
+      {
+        "intent": "GREETING",
+        "text": "Hi can you help me"
+      },
+      {
+        "intent": "GREETING",
+        "text": "Hi can you suggest me"
+      },
+      {
+        "intent": "GREETING",
+        "text": "Hey/hi i needed help"
+      },
+      {
+        "intent": "GREETING",
+        "text": "Hey/hi i need job"
+      },
+      {
+        "intent": "GREETING",
+        "text": "Namaskar"
+      },
+      {
+        "intent": "GREETING",
+        "text": "Career bot?"
+      },
+      {
+        "intent": "GREETING",
+        "text": "There"
+      },
+      {
+        "intent": "GREETING",
+        "text": "Sir"
+      },
+      {
+        "intent": "GREETING",
+        "text": "Mam"
+      },
+      {
+        "intent": "GREETING",
+        "text": "Whats doing?"
+      },
+      {
+        "intent": "GREETING",
+        "text": "Howdy"
+      },
+      {
+        "intent": "GREETING",
+        "text": "Greetings"
+      },
+      {
+        "intent": "GREETING",
+        "text": "Hey, what’s up?"
+      },
+      {
+        "intent": "GREETING",
+        "text": "I needed help immediately"
+      },
+      {
+        "intent": "GREETING",
+        "text": "What’s going on?"
+      },
+      {
+        "intent": "GREETING",
+        "text": "Hey! There she/he is"
+      },
+      {
+        "intent": "GREETING",
+        "text": "How’s everything?"
+      },
+      {
+        "intent": "GREETING",
+        "text": "Great to see you"
+      },
+      {
+        "intent": "GREETING",
+        "text": "Nice to see you"
+      },
+      {
+        "intent": "GREETING",
+        "text": "Anyone there"
+      },
+      {
+        "intent": "GREETING",
+        "text": "Is it real career bot?"
+      },
+      {
+        "intent": "GREETING",
+        "text": "Long time no see"
+      },
+      {
+        "intent": "GREETING",
+        "text": "What’s the good word?"
+      },
+      {
+        "intent": "GREETING",
+        "text": "What’s new?"
+      },
+      {
+        "intent": "GREETING",
+        "text": "Look who it is!"
+      },
+      {
+        "intent": "GREETING",
+        "text": "Nice to see you again."
+      },
+      {
+        "intent": "GREETING",
+        "text": "Greetings and salutations!"
+      },
+      {
+        "intent": "GREETING",
+        "text": "What have you been up to?"
+      },
+      {
+        "intent": "GREETING",
+        "text": "How are you feeling today?"
+      },
+      {
+        "intent": "GREETING",
+        "text": "What’s happening"
+      },
+      {
+        "intent": "GREETING",
+        "text": "How’s it going?"
+      },
+      {
+        "intent": "GREETING",
+        "text": "Hey, boo"
+      },
+      {
+        "intent": "GREETING",
+        "text": "Nice to meet you!"
+      },
+      {
+        "intent": "GREETING",
+        "text": "Hello there?"
+      },
+      {
+        "intent": "GREETING",
+        "text": "Hello what's doing"
+      },
+      {
+        "intent": "GREETING",
+        "text": "What's up?"
+      },
+      {
+        "intent": "GREETING",
+        "text": "It’s nice to meet you"
+      },
+      {
+        "intent": "GREETING",
+        "text": "I’m pleased to meet you."
+      },
+      {
+        "intent": "GREETING",
+        "text": "It’s a pleasure to meet you."
+      },
+      {
+        "intent": "GREETING",
+        "text": "I’m glad to see you."
+      },
+      {
+        "intent": "GREETING",
+        "text": "How do you do?"
+      },
+      {
+        "intent": "GREETING",
+        "text": "What’s up?"
+      },
+      {
+        "intent": "GREETING",
+        "text": "How’s your day?"
+      },
+      {
+        "intent": "GREETING",
+        "text": "How’s your day going?"
+      },
+      {
+        "intent": "GREETING",
+        "text": "Good to see you."
+      },
+      {
+        "intent": "GREETING",
+        "text": "Long time no see."
+      },
+      {
+        "intent": "GREETING",
+        "text": "It’s been a while."
+      },
+      {
+        "intent": "GREETING",
+        "text": "It’s been a long time."
+      },
+      {
+        "intent": "GREETING",
+        "text": "I’m so happy to see you again."
+      },
+      {
+        "intent": "GREETING",
+        "text": "Wow, it’s so good to see you again!"
+      },
+      {
+        "intent": "GREETING",
+        "text": "Hello,what's up?"
+      },
+      {
+        "intent": "GREETING",
+        "text": "Hi, are you there?"
+      },
+      {
+        "intent": "GREETING",
+        "text": "How may i help you?"
+      },
+      {
+        "intent": "GREETING",
+        "text": "Long time no see, what are you doing now?"
+      },
+      {
+        "intent": "GREETING",
+        "text": "Nice to meet you after long time"
+      },
+      {
+        "intent": "GREETING",
+        "text": "Hey, how do you do?"
+      },
+      {
+        "intent": "GREETING",
+        "text": "Welcome"
+      },
+      {
+        "intent": "GREETING",
+        "text": "Good afternooon"
+      },
+      {
+        "intent": "GREETING",
+        "text": "It's nice to meet you"
+      },
+      {
+        "intent": "GREETING",
+        "text": "It's pleasure to meet you"
+      },
+      {
+        "intent": "GREETING",
+        "text": "How can i hep you?"
+      },
+      {
+        "intent": "GREETING",
+        "text": "May i help you?"
+      },
+      {
+        "intent": "GREETING",
+        "text": "Tell me, what can i do for you?"
+      },
+      {
+        "intent": "GREETING",
+        "text": "Do you want to know something?"
+      },
+      {
+        "intent": "GREETING",
+        "text": "Need any help?"
+      },
+      {
+        "intent": "GREETING",
+        "text": "Require help message me?"
+      },
+      {
+        "intent": "GREETING",
+        "text": "What kind of information you need?"
+      },
+      {
+        "intent": "GREETING",
+        "text": "Hey!"
+      },
+      {
+        "intent": "GREETING",
+        "text": "Hey! Supp?"
+      },
+      {
+        "intent": "GREETING",
+        "text": "Hey! There?"
+      },
+      {
+        "intent": "GREETING",
+        "text": "Hi! How you doing?"
+      },
+      {
+        "intent": "GREETING",
+        "text": "Hi! How are you?"
+      },
+      {
+        "intent": "GREETING",
+        "text": "Hi! Supp?"
+      },
+      {
+        "intent": "GREETING",
+        "text": "Hi bro"
+      },
+      {
+        "intent": "GREETING",
+        "text": "Hey! I need some help you there?"
+      },
+      {
+        "intent": "GREETING",
+        "text": "Hey! How's the day?"
+      },
+      {
+        "intent": "GREETING",
+        "text": "Hi! How can you help me?"
+      },
+      {
+        "intent": "GREETING",
+        "text": "Hey! Good morning"
+      },
+      {
+        "intent": "GREETING",
+        "text": "Hey! Good evening"
+      },
+      {
+        "intent": "GREETING",
+        "text": "Hey! Give me some caree advice?"
+      },
+      {
+        "intent": "GREETING",
+        "text": "Hey! Any updates for me?"
+      },
+      {
+        "intent": "GREETING",
+        "text": "Hi! Any recent openings?"
+      },
+      {
+        "intent": "GREETING",
+        "text": "Hey! Can you review my cv?"
+      },
+      {
+        "intent": "GREETING",
+        "text": "Hey! What's going on"
+      },
+      {
+        "intent": "GREETING",
+        "text": "Wassup?"
+      },
+      {
+        "intent": "GREETING",
+        "text": "Hey! Supp bro?"
+      },
+      {
+        "intent": "GREETING",
+        "text": "Hey dude how's life?"
+      },
+      {
+        "intent": "GREETING",
+        "text": "Hi,how are you today"
+      },
+      {
+        "intent": "GREETING",
+        "text": "How can i help you"
+      },
+      {
+        "intent": "GREETING",
+        "text": "Hey! Help me"
+      },
+      {
+        "intent": "GREETING",
+        "text": "Pleasure to meet you"
+      }
+    ],
+    "regex_features": [],
+    "lookup_tables": [],
+    "entity_synonyms": []
+  }
+}
