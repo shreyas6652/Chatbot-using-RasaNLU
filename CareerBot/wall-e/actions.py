@@ -12,7 +12,6 @@ class ActionGetNewst(Action):
         category = tracker.get_slot('category')
         print(category)
         url = 'https://api.nytimes.com/svc/news/v3/content/all/{category}.json'.format(category=category)
-        params = {'api-key': "jaqKH28DLEyYYaQ8yHJ8Ig20533", 'limit': 5}
         response = requests.get(url, params).text
         json_data = json.loads(response)['results']
         i = 0
